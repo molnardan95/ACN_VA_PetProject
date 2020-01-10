@@ -1,37 +1,13 @@
-# PACKAGES
-#install.packages("tidyverse")
 library(dplyr)
 library(tidyverse)
 library(ggplot2)
 
 # DATA
-#player_data <- read.csv(file="../../data/player_data.csv", header=TRUE, sep=",")
 players <- read.csv("../../data/Players.csv", header=TRUE, sep=",")
 season_stats <- read.csv("../../data/Seasons_Stats.csv", header=TRUE, sep=",")
 
 
-
-data_plyr <- season_stats %>% 
-  group_by(Player) %>% 
-  summarize(min_year = min(Year),
-            max_year = max(Year),
-            #position = most.frequent(position),
-            games_played = sum(G),
-            maxmin = max_year - min_year) %>% 
-  arrange(-maxmin) %>% 
-  head(20)
-
-data_plyr_lst <- as.character(data_plyr$Player)
-
-season_stats_tst <- season_stats %>%
-  filter(Player %in% data_plyr_lst) %>% 
-  arrange(Player, Year) %>%
-  mutate(prev_age = lag(Age),
-         prev_year = lag(Year),
-         diff_age = Age - prev_age,
-         diff_year = Year - prev_year,
-         same_player = ifelse(diff_age == diff_year, 'Y', 'N')) %>%
-  select(Player, Age, prev_age, Year, prev_year, diff_age, diff_year, same_player, Tm)
+# JOIN AND RENAME ---------------------------------------------------------
 
 
 # CLEANING
@@ -98,7 +74,13 @@ data <- data %>%
   )
 
 data <- data %>% filter(player != "")
-data_plyr_sn <- data %>% 
+
+
+# SEASON DATA -------------------------------------------------------------
+## Season data contains for each and every players every season spent in the NBA
+## If a player played in more then one team in a season, the total should be used with additional column indicating transfer
+
+data_season <- data %>% 
   mutate(per_game_3_point = field_goal_3_point/games_played,
          per_game_2_point = field_goal_2_point/games_played,
          per_game_points = points/games_played,
@@ -107,56 +89,16 @@ data_plyr_sn <- data %>%
          per_game_blocks = blocks/games_played,
          per_game_steals = steals/games_played)
 
+test <- data_season %>% 
+  group_by(year, player) %>% 
+  mutate(player_teams = n()) %>% 
+  filter(player_teams > 1) %>% 
+  select(year, player, position, age, team, games_played, player_teams)
 
 
-### EXPLORATORY DATA ANALYSIS
-
-## 1. ARE THERE ANY FEATURES MISSING FOR CERTAIN YEARS
-
-columns <- colnames(data) # Need columns to loop trough
-df_stat_calc_from <- tibble() # Initiate ouput df
-
-for (colname in columns) {
-  non_na_per_column <- data %>% 
-    select(year, colname) %>% 
-    na.omit() # Select data fro column where it's not NA
-  
-  first_calculated_year <- min(non_na_per_column$year) # Store min year in a variable
-  
-  df_stat_calc_from_col <- tibble(first_calculated_year, colname) # Store it in a df
-  
-  df_stat_calc_from <- bind_rows(df_stat_calc_from, df_stat_calc_from_col) # Output df 
-}
-
-data1980 <- data %>% 
-  filter(year >= 1980)
-
-# TURNS OUT WE HAVE ALL STATS FROM 1980
-
-## 2. MAIN STATS BY AGE
-
-# AGE DISTRIBUTION
-# METHOD 1 - geom_histogram
-
-length(unique(data$age))
-
-data_plyr_sn %>% 
-  ggplot(aes(age))+
-  geom_histogram(bins = 28)
-
-# METHOD 2 - geom_bar()
-
-data_plyr_sn %>% 
-  ggplot(aes(age))+
-  geom_bar() +
-  geom_text()
+# PLAYER DATA -------------------------------------------------------------
 
 
-# STATS
-
-data_plyr_sn %>% 
-  ggplot(aes(age, per_game_points)) +
-  geom_point() +
-  geom_smooth() # "method = lm" could be used for linear model
+# TEAM DATA ---------------------------------------------------------------
 
 
