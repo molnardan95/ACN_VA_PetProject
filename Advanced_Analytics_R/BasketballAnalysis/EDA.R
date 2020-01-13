@@ -3,101 +3,12 @@
 library(dplyr)
 library(tidyverse)
 library(ggplot2)
+library(lubridate)
 
 # DATA
 #player_data <- read.csv(file="../../data/player_data.csv", header=TRUE, sep=",")
-players <- read.csv("../../data/Players.csv", header=TRUE, sep=",")
-season_stats <- read.csv("../../data/Seasons_Stats.csv", header=TRUE, sep=",")
+data <- read.csv("../../data/data_work.csv", header=TRUE, sep=",")
 
-
-
-data_plyr <- season_stats %>% 
-  group_by(Player) %>% 
-  summarize(min_year = min(Year),
-            max_year = max(Year),
-            #position = most.frequent(position),
-            games_played = sum(G),
-            maxmin = max_year - min_year) %>% 
-  arrange(-maxmin) %>% 
-  head(20)
-
-data_plyr_lst <- as.character(data_plyr$Player)
-
-season_stats_tst <- season_stats %>%
-  filter(Player %in% data_plyr_lst) %>% 
-  arrange(Player, Year) %>%
-  mutate(prev_age = lag(Age),
-         prev_year = lag(Year),
-         diff_age = Age - prev_age,
-         diff_year = Year - prev_year,
-         same_player = ifelse(diff_age == diff_year, 'Y', 'N')) %>%
-  select(Player, Age, prev_age, Year, prev_year, diff_age, diff_year, same_player, Tm)
-
-
-# CLEANING
-season_stats$Player <- gsub("[*]", "", season_stats$Player) # Some players have * after their name
-
-data <- season_stats %>% 
-  left_join(players)
-
-rm(players, season_stats)
-
-data <- data %>% 
-  rename(
-    id = X,
-    year = Year,
-    player = Player,
-    position = Pos,
-    age = Age,
-    team = Tm,
-    games_played = G,
-    games_started = GS,
-    mins_played = MP,
-    player_efficience_rating = PER,
-    perc_true_shooting = TS.,
-    rate_3_point = X3PAr,
-    rate_free_throw = FTr,
-    perc_off_rebound = ORB.,
-    perc_def_rebound = DRB.,
-    perc_tot_rebound = TRB.,
-    perc_assist = AST.,
-    perc_steal = STL.,
-    perc_block = BLK.,
-    perc_trunover = TOV.,
-    perc_usage = USG.,
-    win_share_off = OWS,
-    win_share_def = DWS,
-    win_share = WS,
-    win_share_per_48 = WS.48,
-    plus_minus_box_off = OBPM,
-    plus_minus_box_def = DBPM,
-    plus_minus_box = BPM,
-    value_over_replacement = VORP,
-    field_goals = FG,
-    field_goal_attempts = FGA,
-    perc_field_goal = FG.,
-    field_goal_3_point = X3P,
-    field_goal_3_point_attempts = X3PA,
-    perc_field_goal_3_point = X3P.,
-    field_goal_2_point = X2P,
-    field_goal_2_point_attempts = X2PA,
-    perc_field_goal_2_point = X2P.,
-    perc_field_goal_effective = eFG.,
-    free_throws = FT,
-    free_throw_attempts = FTA,
-    perc_free_throw = FT.,
-    rebounds_off = ORB,
-    rebounds_def = DRB,
-    rebounds = TRB,
-    assists = AST,
-    steals = STL,
-    blocks = BLK,
-    turnovers = TOV,
-    fouls = PF,
-    points = PTS
-  )
-
-data <- data %>% filter(player != "")
 data_plyr_sn <- data %>% 
   mutate(per_game_3_point = field_goal_3_point/games_played,
          per_game_2_point = field_goal_2_point/games_played,

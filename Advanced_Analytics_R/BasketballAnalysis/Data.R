@@ -145,6 +145,7 @@ data <- data %>%
 
 data <- data %>% select(-c(player_first_season.x, player_first_season.y, name))
 
+write.csv(data, '../../data/data_work.csv')
 
 # SEASON DATA -------------------------------------------------------------
 ## Season data contains for each and every players every season spent in the NBA
@@ -172,41 +173,3 @@ test <- data_season %>%
 # TEAM DATA ---------------------------------------------------------------
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# WITH YEAR - AGE METHOD IT'S NOT WORKING PROPERLY AS THAT IS NOT THE SAME AS BORN
-season_stats <- season_stats %>% 
-  mutate(born = Year - Age - 1,
-         player_id = paste(Player, born)) %>% 
-  select(-born)
-
-players <- players %>% 
-  mutate(player_id = paste(Player, born))
-
-players_same_name <- players %>% 
-  group_by(Player) %>% 
-  mutate(same_name = n()) %>% 
-  filter(same_name > 1)
-
-player_data_same_name <- player_data %>% 
-  group_by(name) %>% 
-  mutate(same_name = n()) %>% 
-  filter(same_name > 1)
-
-data <- season_stats %>% 
-  left_join(players, by = c("player_id" = "player_id"))
