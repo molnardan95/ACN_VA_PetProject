@@ -1,10 +1,14 @@
+# Install.packages("dplyr")
 library(dplyr)
 library(tidyverse)
 library(ggplot2)
+library(lubridate)
 
 # DATA
 players <- read.csv("../../data/Players.csv", header=TRUE, sep=",")
 season_stats <- read.csv("../../data/Seasons_Stats.csv", header=TRUE, sep=",")
+player_data <- read.csv(file="../../data/player_data.csv", header=TRUE, sep=",")
+
 
 
 # JOIN AND RENAME ---------------------------------------------------------
@@ -12,18 +16,84 @@ season_stats <- read.csv("../../data/Seasons_Stats.csv", header=TRUE, sep=",")
 
 # CLEANING
 season_stats$Player <- gsub("[*]", "", season_stats$Player) # Some players have * after their name
+players$Player <- gsub("[*]", "", players$Player)
+season_stats <- season_stats %>% filter(Player != "")
+
+
+# CREATE ID
+
+# FIRST AND LAST SEASON METHOD
+## CREATE PLAYER_ID IN SEASON STATS
+
+season_first_season <- season_stats %>% 
+  mutate(player_born = Year - Age,
+         name_born = paste(Player, player_born)) %>% 
+  arrange(name_born, Year) %>% 
+  group_by(name_born) %>% 
+  mutate(first_season = first(Year)) %>% 
+  ungroup() %>% 
+  mutate(player_first_season = paste(Player, first_season))
+
+player_ids <- season_first_season %>% 
+  select(Player, first_season, player_first_season) %>% 
+  unique() %>% 
+  group_by(Player) %>% 
+  mutate(id = 1:n()) %>% 
+  ungroup() %>% 
+  mutate(player_id = paste(Player, id)) %>% 
+  select(player_first_season, player_id)
+  
+season_stats <- season_first_season %>% 
+  select(-c(player_born, name_born, first_season, X)) %>% 
+  left_join(player_ids, by = c("player_first_season" = "player_first_season"))
+
+
+rm(season_first_season, player_ids)
+
+
+## CREATE PLAYER_ID IN PLAYER_DATA
+
+substrRight <- function(x, n){
+  substr(x, nchar(x)-n+1, nchar(x))
+}
+
+player_data_tmp <- player_data %>% 
+  mutate(tmp_player_born = as.character(birth_date),
+         player_born = substrRight(tmp_player_born, 4),
+         name_born = paste(name, player_born)) %>% 
+  arrange(name_born) %>% 
+  group_by(name_born) %>% 
+  mutate(first_season = first(year_start),
+         player_first_season = paste(name, first_season)) %>% 
+  ungroup()
+
+player_ids <- player_data_tmp %>% 
+  select(name, first_season, player_first_season) %>% 
+  unique() %>% 
+  group_by(name) %>% 
+  mutate(id = 1:n()) %>% 
+  ungroup() %>% 
+  mutate(player_id = paste(name, id)) %>% 
+  select(player_first_season, player_id)
+
+player_data <- player_data_tmp %>% 
+  select(-c(tmp_player_born, player_born, name_born, first_season)) %>% 
+  left_join(player_ids, by = c("player_first_season" = "player_first_season"))
+
+rm(player_data_tmp, player_ids)
+
 
 data <- season_stats %>% 
-  left_join(players)
+  left_join(player_data, by = c("player_id" = "player_id"))
 
-rm(players, season_stats)
+rm(players, season_stats, player_data)
+
 
 data <- data %>% 
   rename(
-    id = X,
     year = Year,
     player = Player,
-    position = Pos,
+    position_in_team = Pos,
     age = Age,
     team = Tm,
     games_played = G,
@@ -73,7 +143,7 @@ data <- data %>%
     points = PTS
   )
 
-data <- data %>% filter(player != "")
+data <- data %>% select(-c(player_first_season.x, player_first_season.y, name))
 
 
 # SEASON DATA -------------------------------------------------------------
@@ -102,3 +172,41 @@ test <- data_season %>%
 # TEAM DATA ---------------------------------------------------------------
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# WITH YEAR - AGE METHOD IT'S NOT WORKING PROPERLY AS THAT IS NOT THE SAME AS BORN
+season_stats <- season_stats %>% 
+  mutate(born = Year - Age - 1,
+         player_id = paste(Player, born)) %>% 
+  select(-born)
+
+players <- players %>% 
+  mutate(player_id = paste(Player, born))
+
+players_same_name <- players %>% 
+  group_by(Player) %>% 
+  mutate(same_name = n()) %>% 
+  filter(same_name > 1)
+
+player_data_same_name <- player_data %>% 
+  group_by(name) %>% 
+  mutate(same_name = n()) %>% 
+  filter(same_name > 1)
+
+data <- season_stats %>% 
+  left_join(players, by = c("player_id" = "player_id"))
