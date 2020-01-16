@@ -9,14 +9,30 @@ library(lubridate)
 #player_data <- read.csv(file="../../data/player_data.csv", header=TRUE, sep=",")
 data <- read.csv("../../data/data_work.csv", header=TRUE, sep=",")
 
-data_plyr_sn <- data %>% 
-  mutate(per_game_3_point = field_goal_3_point/games_played,
-         per_game_2_point = field_goal_2_point/games_played,
-         per_game_points = points/games_played,
-         per_game_rebounds = rebounds/games_played,
-         per_game_assists = assists/games_played,
-         per_game_blocks = blocks/games_played,
-         per_game_steals = steals/games_played)
+data <- data %>% 
+  mutate(flag_1980_after = ifelse(year >= 1980, 'Y', 'N'))
+
+data_per_game <- data %>% 
+  mutate(pg_mins_played = mins_played/games_played,
+         pg_field_goals = field_goals/games_played,
+         pg_field_goal_attempts = field_goal_attempts/games_played,
+         pg_3_point = field_goal_3_point/games_played,
+         pg_3_point_attempts = field_goal_3_point_attempts/games_played,
+         pg_2_point = field_goal_2_point/games_played,
+         pg_2_point_attempts = field_goal_2_point_attempts/games_played,
+         pg_free_throws = free_throws/games_played,
+         pg_free_throw_attempts = free_throw_attempts/games_played,
+         pg_rebounds_off = rebounds_off/games_played,
+         pg_rebounds_def = rebounds_def/games_played,
+         pg_rebounds = rebounds/games_played,
+         pg_assists = assists/games_played,
+         pg_steals = steals/games_played,
+         pg_blocks = blocks/games_played,
+         pg_turnovers = turnovers/games_played,
+         pg_fouls = fouls/games_played,
+         pg_points = points/games_played)
+
+
 
 
 
@@ -71,3 +87,25 @@ data_plyr_sn %>%
   geom_smooth() # "method = lm" could be used for linear model
 
 
+# 
+data %>% 
+  filter(team != "TOT" & flag_1980_after == "Y") %>% 
+  ggplot(aes(age, points, color = position_in_team)) +
+  geom_point() 
+
+
+data %>% 
+  filter(team != "TOT" & flag_1980_after == "Y") %>% 
+  ggplot(aes(year, points, color = position_in_team)) +
+  geom_point() 
+
+data_per_game %>% 
+  filter(team != "TOT" & flag_1980_after == "Y") %>% 
+  ggplot(aes(age, pg_points)) +
+  geom_point() +
+  geom_smooth()
+
+
+cor(data$age, data$points, method = "pearson")
+
+cor.test(data$age, data$points, method = c("pearson", "kendall", "spearman"))
