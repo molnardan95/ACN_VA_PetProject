@@ -1,13 +1,23 @@
-# PACKAGES
-#install.packages("tidyverse")
+# Packages ----------------------------------------------------------------
+
+#install.packages("corrplot")
 library(dplyr)
 library(tidyverse)
 library(ggplot2)
 library(lubridate)
+library(corrplot)
+library(Hmisc)
 
-# DATA
-#player_data <- read.csv(file="../../data/player_data.csv", header=TRUE, sep=",")
+
+
+
+# Data Loading ------------------------------------------------------------
 data <- read.csv("../../data/data_work.csv", header=TRUE, sep=",")
+
+
+
+# Date Preparation --------------------------------------------------------
+
 
 data <- data %>% 
   mutate(flag_1980_after = ifelse(year >= 1980, 'Y', 'N'))
@@ -33,10 +43,16 @@ data_per_game <- data %>%
          pg_points = points/games_played)
 
 
-
+data1980 <- data %>% 
+  filter(flag_1980_after == 'Y')
 
 
 ### EXPLORATORY DATA ANALYSIS
+
+# First calculation year per feature --------------------------------------
+
+
+
 
 ## 1. ARE THERE ANY FEATURES MISSING FOR CERTAIN YEARS
 
@@ -58,7 +74,43 @@ for (colname in columns) {
 data1980 <- data %>% 
   filter(year >= 1980)
 
-# TURNS OUT WE HAVE ALL STATS FROM 1980
+rm(df_stat_calc_from, df_stat_calc_from_col, non_na_per_column, colname, columns, first_calculated_year)
+
+
+# TURNS OUT WE HAVE ALL STATS FROM 1980 WITH SOME GAPS
+
+
+# NA Value Analysis -------------------------------------------------------
+
+data_numeric <- data1980 %>% select_if(is.numeric)
+
+na_count <-sapply(data_numeric, function(y) sum(length(which(is.na(y)))))
+na_count <- data.frame(na_count)
+
+# na_count shows us the fields with any NA values
+## fields with 5 NAs
+## If a player played 0 minutes, some of the fields will be NA. Substitute those with 0.
+rownum_zero_mins_played <- data_numeric %>% filter(mins_played == 0) %>% nrow()
+na_count$column <- row.names(na_count)
+zero_mins_played_cols <- na_count %>% 
+  filter(na_count == rownum_zero_mins_played) %>% 
+  select(column)
+
+test <- as.vector(zero_mins_played_cols)
+
+# Correlation -------------------------------------------------------------
+
+data_corr <- data1980 %>% select_if(is.numeric) %>% na.omit()
+cor.test(data_corr$age, data_corr$points, method = c("pearson", "kendall", "spearman"))
+
+res <- cor(as.matrix(data_corr))
+corrplot(res, type = "upper")
+
+points_corr <- as.data.frame(res["points",])
+
+
+# Analyzing Points --------------------------------------------------------
+
 
 ## 2. MAIN STATS BY AGE
 
@@ -106,6 +158,11 @@ data_per_game %>%
   geom_smooth()
 
 
-cor(data$age, data$points, method = "pearson")
 
-cor.test(data$age, data$points, method = c("pearson", "kendall", "spearman"))
+
+# Null Values -------------------------------------------------------------
+
+## IF A PLAYER DIDN'T PLAY A SINGLE MINUTE, HE WON'T HAVE A LOT OF STATS
+
+
+    
