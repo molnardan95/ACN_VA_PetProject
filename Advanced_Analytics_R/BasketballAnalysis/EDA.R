@@ -8,7 +8,7 @@ library(lubridate)
 library(corrplot)
 library(Hmisc)
 
-
+?dplyr
 
 
 # Data Loading ------------------------------------------------------------
@@ -90,7 +90,9 @@ na_count <- data.frame(na_count)
 # na_count shows us the fields with any NA values
 ## fields with 5 NAs
 ## If a player played 0 minutes, some of the fields will be NA. Substitute those with 0.
-rownum_zero_mins_played <- data_numeric %>% filter(mins_played == 0) %>% nrow()
+rownum_zero_mins_played <- data_numeric %>%
+  filter(mins_played == 0) %>% 
+  nrow()
 na_count$column <- row.names(na_count)
 zero_mins_played_cols <- na_count %>% 
   filter(na_count == rownum_zero_mins_played) %>% 
