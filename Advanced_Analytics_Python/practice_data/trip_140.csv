@@ -1,0 +1,1001 @@
+Trip ID,Start Date,Start Station,Start Terminal,End Date,End Station,End Terminal,Bike #,Subscription Type
+191837,2/21/2014 13:56,San Francisco Caltrain (Townsend at 4th),70,2/21/2014 14:02,2nd at Folsom,62,443,Subscriber
+191838,2/21/2014 13:58,Howard at 2nd,63,2/21/2014 14:03,2nd at South Park,64,493,Subscriber
+191839,2/21/2014 13:59,Redwood City Caltrain Station,22,2/21/2014 17:37,Palo Alto Caltrain Station,34,648,Customer
+191840,2/21/2014 14:01,Powell Street BART,39,2/21/2014 14:48,Embarcadero at Vallejo,48,623,Customer
+191841,2/21/2014 14:01,Redwood City Caltrain Station,22,2/21/2014 17:37,Palo Alto Caltrain Station,34,158,Customer
+191842,2/21/2014 14:01,Embarcadero at Sansome,60,2/21/2014 14:21,Embarcadero at Sansome,60,483,Customer
+191843,2/21/2014 14:02,Embarcadero at Sansome,60,2/21/2014 14:18,Embarcadero at Sansome,60,524,Customer
+191844,2/21/2014 14:03,Commercial at Montgomery,45,2/21/2014 14:06,Davis at Jackson,42,548,Subscriber
+191845,2/21/2014 14:04,Redwood City Caltrain Station,22,2/21/2014 17:37,Palo Alto Caltrain Station,34,66,Customer
+191846,2/21/2014 14:04,California Ave Caltrain Station,36,2/22/2014 10:43,California Ave Caltrain Station,36,165,Customer
+191847,2/21/2014 14:03,San Jose Civic Center,3,2/21/2014 14:08,MLK Library,11,246,Subscriber
+191848,2/21/2014 14:06,Redwood City Caltrain Station,22,2/21/2014 17:37,Palo Alto Caltrain Station,34,116,Customer
+191849,2/21/2014 14:06,2nd at South Park,64,2/21/2014 14:16,Market at 4th,76,279,Subscriber
+191850,2/21/2014 14:09,Redwood City Caltrain Station,22,2/21/2014 17:37,Palo Alto Caltrain Station,34,227,Customer
+191851,2/21/2014 14:09,California Ave Caltrain Station,36,2/21/2014 14:23,University and Emerson,35,243,Subscriber
+191852,2/21/2014 14:10,Davis at Jackson,42,2/21/2014 14:13,Clay at Battery,41,548,Subscriber
+191853,2/21/2014 14:11,Redwood City Caltrain Station,22,2/21/2014 17:37,Palo Alto Caltrain Station,34,36,Customer
+191854,2/21/2014 14:12,Howard at 2nd,63,2/21/2014 14:17,2nd at South Park,64,361,Subscriber
+191855,2/21/2014 14:14,Harry Bridges Plaza (Ferry Building),50,2/21/2014 14:19,Mechanics Plaza (Market at Battery),75,372,Subscriber
+191856,2/21/2014 14:14,Harry Bridges Plaza (Ferry Building),50,2/21/2014 14:24,Howard at 2nd,63,508,Customer
+191857,2/21/2014 14:15,Clay at Battery,41,2/21/2014 14:19,Commercial at Montgomery,45,494,Subscriber
+191858,2/21/2014 14:16,Harry Bridges Plaza (Ferry Building),50,2/21/2014 14:20,Mechanics Plaza (Market at Battery),75,472,Subscriber
+191859,2/21/2014 14:16,2nd at South Park,64,2/21/2014 14:23,Market at Sansome,77,480,Subscriber
+191860,2/21/2014 14:18,Market at Sansome,77,2/21/2014 14:29,Davis at Jackson,42,478,Subscriber
+191861,2/21/2014 14:19,Embarcadero at Bryant,54,2/21/2014 14:26,Beale at Market,56,625,Subscriber
+191862,2/21/2014 14:20,Spear at Folsom,49,2/21/2014 14:26,2nd at South Park,64,417,Subscriber
+191863,2/21/2014 14:24,Golden Gate at Polk,59,2/21/2014 14:28,Market at 10th,67,611,Subscriber
+191865,2/21/2014 14:28,Harry Bridges Plaza (Ferry Building),50,2/21/2014 14:32,Davis at Jackson,42,418,Subscriber
+191866,2/21/2014 14:28,2nd at Townsend,61,2/21/2014 14:31,San Francisco Caltrain (Townsend at 4th),70,436,Subscriber
+191867,2/21/2014 14:30,California Ave Caltrain Station,36,2/21/2014 14:46,California Ave Caltrain Station,36,201,Subscriber
+191868,2/21/2014 14:34,Powell at Post (Union Square),71,2/21/2014 14:43,Harry Bridges Plaza (Ferry Building),50,389,Subscriber
+191869,2/21/2014 14:36,Powell Street BART,39,2/21/2014 14:44,Market at 10th,67,375,Subscriber
+191870,2/21/2014 14:36,Powell Street BART,39,2/21/2014 14:44,Market at 10th,67,580,Subscriber
+191871,2/21/2014 14:39,5th at Howard,57,2/21/2014 15:04,Washington at Kearney,46,384,Subscriber
+191872,2/21/2014 14:42,Embarcadero at Vallejo,48,2/21/2014 14:56,Powell at Post (Union Square),71,397,Subscriber
+191873,2/21/2014 14:43,Broadway St at Battery St,82,2/21/2014 14:58,Market at 10th,67,550,Subscriber
+191874,2/21/2014 14:45,2nd at South Park,64,2/21/2014 14:54,Market at 4th,76,417,Subscriber
+191875,2/21/2014 14:47,2nd at South Park,64,2/21/2014 14:50,Howard at 2nd,63,518,Subscriber
+191876,2/21/2014 14:48,Embarcadero at Folsom,51,2/21/2014 15:00,2nd at Townsend,61,335,Customer
+191877,2/21/2014 14:51,Broadway St at Battery St,82,2/21/2014 14:56,Mechanics Plaza (Market at Battery),75,575,Subscriber
+191878,2/21/2014 14:51,San Pedro Square,6,2/21/2014 14:57,San Jose Diridon Caltrain Station,2,701,Subscriber
+191879,2/21/2014 14:53,San Jose City Hall,10,2/21/2014 15:21,San Jose City Hall,10,52,Subscriber
+191881,2/21/2014 14:53,Spear at Folsom,49,2/21/2014 15:03,Market at Sansome,77,631,Subscriber
+191882,2/21/2014 14:54,Embarcadero at Sansome,60,2/21/2014 15:04,Clay at Battery,41,524,Customer
+191883,2/21/2014 14:54,Embarcadero at Sansome,60,2/21/2014 15:04,Clay at Battery,41,604,Customer
+191884,2/21/2014 14:56,Powell Street BART,39,2/21/2014 15:11,Embarcadero at Sansome,60,511,Subscriber
+191885,2/21/2014 14:56,Market at Sansome,77,2/21/2014 15:05,2nd at South Park,64,581,Subscriber
+191886,2/21/2014 14:57,Mechanics Plaza (Market at Battery),75,2/21/2014 15:02,Clay at Battery,41,472,Subscriber
+191887,2/21/2014 14:58,Powell Street BART,39,2/21/2014 15:02,Civic Center BART (7th at Market),72,265,Customer
+191888,2/21/2014 15:02,Embarcadero at Sansome,60,2/21/2014 15:16,Market at 4th,76,365,Subscriber
+191892,2/21/2014 15:10,Market at Sansome,77,2/21/2014 15:16,5th at Howard,57,582,Subscriber
+191893,2/21/2014 15:10,Townsend at 7th,65,2/21/2014 15:14,San Francisco Caltrain 2 (330 Townsend),69,445,Subscriber
+191894,2/21/2014 15:11,Temporary Transbay Terminal (Howard at Beale),55,2/21/2014 15:23,Embarcadero at Sansome,60,390,Customer
+191895,2/21/2014 15:12,Powell Street BART,39,2/21/2014 15:21,South Van Ness at Market,66,312,Subscriber
+191898,2/21/2014 15:14,Market at Sansome,77,2/21/2014 15:33,Embarcadero at Sansome,60,358,Customer
+191899,2/21/2014 15:15,2nd at Townsend,61,2/21/2014 15:22,Harry Bridges Plaza (Ferry Building),50,566,Subscriber
+191900,2/21/2014 15:15,San Francisco Caltrain 2 (330 Townsend),69,2/21/2014 15:21,5th at Howard,57,612,Subscriber
+191901,2/21/2014 15:15,Temporary Transbay Terminal (Howard at Beale),55,2/21/2014 15:23,San Francisco Caltrain 2 (330 Townsend),69,607,Subscriber
+191904,2/21/2014 15:16,Temporary Transbay Terminal (Howard at Beale),55,2/21/2014 15:24,San Francisco Caltrain (Townsend at 4th),70,351,Subscriber
+191907,2/21/2014 15:18,Townsend at 7th,65,2/21/2014 15:30,Market at Sansome,77,488,Subscriber
+191908,2/21/2014 15:18,Embarcadero at Sansome,60,2/21/2014 15:25,Steuart at Market,74,600,Subscriber
+191909,2/21/2014 15:20,Mountain View Caltrain Station,28,2/21/2014 15:32,Rengstorff Avenue / California Street,33,126,Subscriber
+191910,2/21/2014 15:23,Santa Clara at Almaden,4,2/21/2014 15:26,Arena Green / SAP Center,14,159,Subscriber
+191911,2/21/2014 15:24,Market at 4th,76,2/21/2014 15:33,5th at Howard,57,365,Customer
+191912,2/21/2014 15:25,Beale at Market,56,2/21/2014 15:39,Market at 10th,67,344,Subscriber
+191913,2/21/2014 15:25,Commercial at Montgomery,45,2/21/2014 15:44,San Francisco Caltrain (Townsend at 4th),70,522,Subscriber
+191914,2/21/2014 15:25,Powell Street BART,39,2/21/2014 15:34,2nd at Folsom,62,463,Subscriber
+191915,2/21/2014 15:26,Harry Bridges Plaza (Ferry Building),50,2/21/2014 15:52,Townsend at 7th,65,455,Customer
+191916,2/21/2014 15:26,Market at 4th,76,2/21/2014 15:35,2nd at South Park,64,279,Subscriber
+191917,2/21/2014 15:26,Harry Bridges Plaza (Ferry Building),50,2/21/2014 18:01,Clay at Battery,41,320,Customer
+191918,2/21/2014 15:26,Harry Bridges Plaza (Ferry Building),50,2/21/2014 15:51,Townsend at 7th,65,609,Customer
+191919,2/21/2014 15:30,Market at Sansome,77,2/21/2014 15:36,2nd at South Park,64,498,Subscriber
+191920,2/21/2014 15:30,Mechanics Plaza (Market at Battery),75,2/21/2014 15:36,Broadway St at Battery St,82,458,Subscriber
+191922,2/21/2014 15:35,San Francisco Caltrain 2 (330 Townsend),69,2/21/2014 15:39,Townsend at 7th,65,445,Subscriber
+191923,2/21/2014 15:35,2nd at South Park,64,2/21/2014 15:47,Powell at Post (Union Square),71,361,Subscriber
+191924,2/21/2014 15:35,Embarcadero at Sansome,60,2/21/2014 15:43,Harry Bridges Plaza (Ferry Building),50,457,Subscriber
+191925,2/21/2014 15:35,Embarcadero at Sansome,60,2/21/2014 16:05,Embarcadero at Sansome,60,387,Customer
+191926,2/21/2014 15:36,Embarcadero at Sansome,60,2/21/2014 16:05,Embarcadero at Sansome,60,358,Customer
+191927,2/21/2014 15:36,San Pedro Square,6,2/21/2014 15:39,San Pedro Square,6,44,Subscriber
+191928,2/21/2014 15:37,San Francisco Caltrain 2 (330 Townsend),69,2/21/2014 15:41,Townsend at 7th,65,437,Subscriber
+191931,2/21/2014 15:43,Beale at Market,56,2/21/2014 15:58,Golden Gate at Polk,59,334,Subscriber
+191932,2/21/2014 15:43,Mechanics Plaza (Market at Battery),75,2/21/2014 18:53,San Francisco Caltrain (Townsend at 4th),70,575,Subscriber
+191933,2/21/2014 15:43,Golden Gate at Polk,59,2/21/2014 15:53,Temporary Transbay Terminal (Howard at Beale),55,431,Subscriber
+191935,2/21/2014 15:44,2nd at Townsend,61,2/21/2014 15:48,2nd at Folsom,62,619,Subscriber
+191940,2/21/2014 15:51,2nd at Folsom,62,2/21/2014 15:58,San Francisco Caltrain 2 (330 Townsend),69,278,Subscriber
+191941,2/21/2014 15:51,Market at 4th,76,2/21/2014 15:59,San Francisco Caltrain (Townsend at 4th),70,624,Subscriber
+191942,2/21/2014 15:52,Mechanics Plaza (Market at Battery),75,2/21/2014 15:55,Steuart at Market,74,420,Subscriber
+191943,2/21/2014 15:52,Embarcadero at Folsom,51,2/21/2014 16:00,San Francisco Caltrain (Townsend at 4th),70,469,Subscriber
+191944,2/21/2014 15:54,San Francisco City Hall,58,2/21/2014 16:05,San Francisco Caltrain (Townsend at 4th),70,626,Subscriber
+191945,2/21/2014 15:54,Steuart at Market,74,2/21/2014 16:08,San Francisco Caltrain (Townsend at 4th),70,341,Subscriber
+191949,2/21/2014 15:58,Harry Bridges Plaza (Ferry Building),50,2/21/2014 16:12,San Francisco Caltrain (Townsend at 4th),70,576,Subscriber
+191952,2/21/2014 15:59,Spear at Folsom,49,2/21/2014 16:05,Mechanics Plaza (Market at Battery),75,504,Subscriber
+191953,2/21/2014 15:59,Beale at Market,56,2/21/2014 16:10,San Francisco Caltrain (Townsend at 4th),70,376,Subscriber
+191955,2/21/2014 16:00,Market at 4th,76,2/21/2014 16:08,San Francisco Caltrain (Townsend at 4th),70,329,Subscriber
+191956,2/21/2014 16:00,Beale at Market,56,2/21/2014 16:14,Civic Center BART (7th at Market),72,570,Subscriber
+191959,2/21/2014 16:01,San Francisco Caltrain 2 (330 Townsend),69,2/21/2014 16:09,Harry Bridges Plaza (Ferry Building),50,406,Subscriber
+191961,2/21/2014 16:02,Washington at Kearney,46,2/21/2014 16:07,Beale at Market,56,353,Subscriber
+191963,2/21/2014 16:02,Mechanics Plaza (Market at Battery),75,2/21/2014 16:05,Temporary Transbay Terminal (Howard at Beale),55,372,Subscriber
+191964,2/21/2014 16:03,Townsend at 7th,65,2/21/2014 16:14,Market at 4th,76,437,Subscriber
+191965,2/21/2014 16:03,Commercial at Montgomery,45,2/21/2014 16:19,San Francisco Caltrain (Townsend at 4th),70,383,Subscriber
+191966,2/21/2014 16:03,Embarcadero at Sansome,60,2/21/2014 16:11,Harry Bridges Plaza (Ferry Building),50,544,Customer
+191969,2/21/2014 16:06,Embarcadero at Vallejo,48,2/21/2014 16:22,San Francisco Caltrain (Townsend at 4th),70,349,Subscriber
+191970,2/21/2014 16:06,Mechanics Plaza (Market at Battery),75,2/21/2014 16:21,South Van Ness at Market,66,504,Subscriber
+191971,2/21/2014 16:06,2nd at Folsom,62,2/21/2014 16:16,Powell at Post (Union Square),71,447,Subscriber
+191972,2/21/2014 16:07,Embarcadero at Folsom,51,2/21/2014 16:15,San Francisco Caltrain (Townsend at 4th),70,560,Subscriber
+191973,2/21/2014 16:07,Commercial at Montgomery,45,2/21/2014 16:12,Market at Sansome,77,494,Subscriber
+191974,2/21/2014 16:08,Townsend at 7th,65,2/21/2014 16:20,Spear at Folsom,49,359,Subscriber
+191976,2/21/2014 16:08,Embarcadero at Folsom,51,2/21/2014 16:21,Powell Street BART,39,507,Subscriber
+191978,2/21/2014 16:09,San Jose City Hall,10,2/21/2014 16:16,San Jose Diridon Caltrain Station,2,52,Subscriber
+191981,2/21/2014 16:11,Townsend at 7th,65,2/21/2014 16:22,Yerba Buena Center of the Arts (3rd @ Howard),68,445,Subscriber
+191982,2/21/2014 16:11,2nd at South Park,64,2/21/2014 16:15,Market at Sansome,77,268,Subscriber
+191986,2/21/2014 16:13,Davis at Jackson,42,2/21/2014 16:28,Market at 4th,76,448,Subscriber
+191987,2/21/2014 16:13,Harry Bridges Plaza (Ferry Building),50,2/21/2014 16:24,San Francisco Caltrain (Townsend at 4th),70,406,Subscriber
+191988,2/21/2014 16:13,San Francisco Caltrain 2 (330 Townsend),69,2/21/2014 16:23,Market at 4th,76,547,Subscriber
+191989,2/21/2014 16:14,Temporary Transbay Terminal (Howard at Beale),55,2/21/2014 16:21,2nd at Townsend,61,510,Subscriber
+191992,2/21/2014 16:16,5th at Howard,57,2/21/2014 17:13,5th at Howard,57,365,Customer
+191994,2/21/2014 16:19,Powell at Post (Union Square),71,2/21/2014 16:26,San Francisco Caltrain (Townsend at 4th),70,447,Subscriber
+191996,2/21/2014 16:19,Market at Sansome,77,2/21/2014 16:28,Davis at Jackson,42,494,Subscriber
+191998,2/21/2014 16:19,Market at 4th,76,2/21/2014 16:23,Harry Bridges Plaza (Ferry Building),50,388,Subscriber
+191999,2/21/2014 16:19,Harry Bridges Plaza (Ferry Building),50,2/21/2014 16:30,San Francisco Caltrain (Townsend at 4th),70,457,Subscriber
+192000,2/21/2014 16:19,San Francisco Caltrain 2 (330 Townsend),69,2/21/2014 16:32,Beale at Market,56,340,Subscriber
+192001,2/21/2014 16:20,2nd at Townsend,61,2/21/2014 16:26,Temporary Transbay Terminal (Howard at Beale),55,335,Subscriber
+192004,2/21/2014 16:23,Powell Street BART,39,2/21/2014 16:29,San Francisco Caltrain (Townsend at 4th),70,400,Subscriber
+192006,2/21/2014 16:24,Embarcadero at Folsom,51,2/21/2014 16:29,Howard at 2nd,63,585,Subscriber
+192009,2/21/2014 16:25,Embarcadero at Folsom,51,2/21/2014 16:38,Market at 4th,76,563,Subscriber
+192010,2/21/2014 16:27,Townsend at 7th,65,2/21/2014 16:31,San Francisco Caltrain (Townsend at 4th),70,382,Subscriber
+192013,2/21/2014 16:28,2nd at Townsend,61,2/21/2014 16:37,Harry Bridges Plaza (Ferry Building),50,532,Subscriber
+192014,2/21/2014 16:29,Temporary Transbay Terminal (Howard at Beale),55,2/21/2014 16:36,2nd at Townsend,61,602,Subscriber
+192015,2/21/2014 16:30,Santa Clara at Almaden,4,2/21/2014 16:34,San Jose Diridon Caltrain Station,2,174,Subscriber
+192016,2/21/2014 16:30,Market at Sansome,77,2/21/2014 16:41,San Francisco Caltrain (Townsend at 4th),70,407,Subscriber
+192017,2/21/2014 16:31,Embarcadero at Sansome,60,2/21/2014 16:40,Market at Sansome,77,567,Subscriber
+192018,2/21/2014 16:31,Howard at 2nd,63,2/21/2014 16:44,Embarcadero at Vallejo,48,535,Subscriber
+192022,2/21/2014 16:33,Market at 10th,67,2/21/2014 16:41,San Francisco Caltrain (Townsend at 4th),70,411,Subscriber
+192023,2/21/2014 16:34,Powell Street BART,39,2/21/2014 16:40,South Van Ness at Market,66,605,Subscriber
+192024,2/21/2014 16:34,Yerba Buena Center of the Arts (3rd @ Howard),68,2/21/2014 16:44,Townsend at 7th,65,445,Subscriber
+192025,2/21/2014 16:34,Temporary Transbay Terminal (Howard at Beale),55,2/21/2014 16:45,San Francisco Caltrain (Townsend at 4th),70,431,Subscriber
+192026,2/21/2014 16:37,Harry Bridges Plaza (Ferry Building),50,2/21/2014 16:48,San Francisco Caltrain (Townsend at 4th),70,392,Subscriber
+192027,2/21/2014 16:38,Townsend at 7th,65,2/21/2014 16:40,San Francisco Caltrain (Townsend at 4th),70,374,Subscriber
+192028,2/21/2014 16:38,Embarcadero at Folsom,51,2/21/2014 16:46,San Francisco Caltrain 2 (330 Townsend),69,545,Subscriber
+192029,2/21/2014 16:38,Townsend at 7th,65,2/21/2014 16:50,Harry Bridges Plaza (Ferry Building),50,609,Subscriber
+192030,2/21/2014 16:39,Market at 4th,76,2/21/2014 16:45,Harry Bridges Plaza (Ferry Building),50,409,Subscriber
+192031,2/21/2014 16:39,Steuart at Market,74,2/21/2014 16:48,San Francisco Caltrain (Townsend at 4th),70,420,Subscriber
+192032,2/21/2014 16:41,Davis at Jackson,42,2/21/2014 16:52,San Francisco Caltrain (Townsend at 4th),70,418,Subscriber
+192033,2/21/2014 16:41,2nd at South Park,64,2/21/2014 16:49,Market at Sansome,77,474,Subscriber
+192034,2/21/2014 16:42,Steuart at Market,74,2/21/2014 16:53,San Francisco Caltrain (Townsend at 4th),70,600,Subscriber
+192036,2/21/2014 16:43,Embarcadero at Sansome,60,2/21/2014 16:48,Harry Bridges Plaza (Ferry Building),50,358,Subscriber
+192037,2/21/2014 16:43,Howard at 2nd,63,2/21/2014 16:51,San Francisco Caltrain 2 (330 Townsend),69,426,Subscriber
+192039,2/21/2014 16:43,Temporary Transbay Terminal (Howard at Beale),55,2/21/2014 16:50,5th at Howard,57,614,Subscriber
+192040,2/21/2014 16:44,Yerba Buena Center of the Arts (3rd @ Howard),68,2/21/2014 16:56,Townsend at 7th,65,311,Subscriber
+192044,2/21/2014 16:47,Mountain View City Hall,27,2/21/2014 16:50,Mountain View Caltrain Station,28,230,Subscriber
+192046,2/21/2014 16:47,Townsend at 7th,65,2/21/2014 17:01,Harry Bridges Plaza (Ferry Building),50,445,Subscriber
+192047,2/21/2014 16:50,Market at 10th,67,2/21/2014 17:03,Commercial at Montgomery,45,580,Subscriber
+192049,2/21/2014 16:51,Embarcadero at Sansome,60,2/21/2014 17:02,Commercial at Montgomery,45,610,Customer
+192050,2/21/2014 16:52,Embarcadero at Sansome,60,2/21/2014 17:00,Steuart at Market,74,333,Subscriber
+192051,2/21/2014 16:53,2nd at South Park,64,2/21/2014 17:00,Yerba Buena Center of the Arts (3rd @ Howard),68,541,Subscriber
+192052,2/21/2014 16:53,Davis at Jackson,42,2/21/2014 16:55,Beale at Market,56,557,Subscriber
+192053,2/21/2014 16:53,Evelyn Park and Ride,30,2/21/2014 16:58,Mountain View Caltrain Station,28,302,Subscriber
+192054,2/21/2014 16:54,Embarcadero at Folsom,51,2/21/2014 17:04,San Francisco Caltrain (Townsend at 4th),70,587,Subscriber
+192058,2/21/2014 16:55,2nd at Folsom,62,2/21/2014 17:03,Commercial at Montgomery,45,443,Subscriber
+192059,2/21/2014 16:55,Civic Center BART (7th at Market),72,2/21/2014 17:03,Powell at Post (Union Square),71,265,Subscriber
+192060,2/21/2014 16:56,Harry Bridges Plaza (Ferry Building),50,2/21/2014 17:08,San Francisco Caltrain 2 (330 Townsend),69,409,Subscriber
+192061,2/21/2014 16:57,South Van Ness at Market,66,2/21/2014 17:06,Townsend at 7th,65,487,Subscriber
+192062,2/21/2014 16:57,South Van Ness at Market,66,2/21/2014 17:06,Townsend at 7th,65,513,Subscriber
+192063,2/21/2014 16:57,Embarcadero at Vallejo,48,2/21/2014 17:12,Mechanics Plaza (Market at Battery),75,310,Customer
+192064,2/21/2014 16:57,Post at Kearney,47,2/21/2014 17:12,San Francisco Caltrain 2 (330 Townsend),69,360,Subscriber
+192065,2/21/2014 16:57,Washington at Kearney,46,2/21/2014 17:13,Powell Street BART,39,627,Subscriber
+192066,2/21/2014 16:59,Washington at Kearney,46,2/21/2014 17:03,Harry Bridges Plaza (Ferry Building),50,495,Subscriber
+192067,2/21/2014 16:59,2nd at Townsend,61,2/21/2014 17:04,Embarcadero at Bryant,54,284,Subscriber
+192068,2/21/2014 16:59,Powell at Post (Union Square),71,2/21/2014 17:09,San Francisco Caltrain 2 (330 Townsend),69,361,Subscriber
+192069,2/21/2014 17:00,Yerba Buena Center of the Arts (3rd @ Howard),68,2/21/2014 17:06,San Francisco Caltrain 2 (330 Townsend),69,452,Subscriber
+192070,2/21/2014 17:00,Temporary Transbay Terminal (Howard at Beale),55,2/21/2014 17:08,San Francisco Caltrain 2 (330 Townsend),69,335,Subscriber
+192071,2/21/2014 17:01,Steuart at Market,74,2/21/2014 17:10,San Francisco Caltrain 2 (330 Townsend),69,617,Subscriber
+192072,2/21/2014 17:01,2nd at Townsend,61,2/21/2014 17:09,Temporary Transbay Terminal (Howard at Beale),55,602,Subscriber
+192074,2/21/2014 17:03,Arena Green / SAP Center,14,2/21/2014 17:06,Santa Clara at Almaden,4,159,Subscriber
+192075,2/21/2014 17:04,San Francisco City Hall,58,2/21/2014 17:13,San Francisco Caltrain 2 (330 Townsend),69,574,Subscriber
+192076,2/21/2014 17:04,2nd at Folsom,62,2/21/2014 17:11,San Francisco Caltrain 2 (330 Townsend),69,362,Subscriber
+192077,2/21/2014 17:04,2nd at Townsend,61,2/21/2014 17:12,Harry Bridges Plaza (Ferry Building),50,542,Subscriber
+192078,2/21/2014 17:05,Steuart at Market,74,2/21/2014 17:15,San Francisco Caltrain 2 (330 Townsend),69,421,Subscriber
+192079,2/21/2014 17:06,Grant Avenue at Columbus Avenue,73,2/21/2014 17:29,San Francisco Caltrain 2 (330 Townsend),69,414,Subscriber
+192080,2/21/2014 17:06,Steuart at Market,74,2/21/2014 17:12,Embarcadero at Sansome,60,373,Subscriber
+192081,2/21/2014 17:06,Yerba Buena Center of the Arts (3rd @ Howard),68,2/21/2014 17:11,San Francisco Caltrain 2 (330 Townsend),69,579,Subscriber
+192082,2/21/2014 17:07,Embarcadero at Vallejo,48,2/21/2014 17:17,Beale at Market,56,535,Subscriber
+192083,2/21/2014 17:08,Beale at Market,56,2/21/2014 17:18,2nd at Townsend,61,353,Subscriber
+192084,2/21/2014 17:08,Market at 10th,67,2/21/2014 17:17,San Francisco Caltrain 2 (330 Townsend),69,375,Subscriber
+192085,2/21/2014 17:08,Embarcadero at Folsom,51,2/21/2014 17:17,San Francisco Caltrain 2 (330 Townsend),69,630,Subscriber
+192086,2/21/2014 17:08,Townsend at 7th,65,2/21/2014 17:24,Temporary Transbay Terminal (Howard at Beale),55,487,Subscriber
+192087,2/21/2014 17:09,Townsend at 7th,65,2/21/2014 17:20,Civic Center BART (7th at Market),72,513,Subscriber
+192088,2/21/2014 17:09,Beale at Market,56,2/21/2014 17:18,2nd at Townsend,61,557,Subscriber
+192089,2/21/2014 17:10,Powell at Post (Union Square),71,2/21/2014 17:18,Harry Bridges Plaza (Ferry Building),50,266,Subscriber
+192090,2/21/2014 17:10,Townsend at 7th,65,2/21/2014 17:16,Civic Center BART (7th at Market),72,311,Subscriber
+192091,2/21/2014 17:10,Beale at Market,56,2/21/2014 17:13,Embarcadero at Folsom,51,340,Subscriber
+192092,2/21/2014 17:12,Paseo de San Antonio,7,2/21/2014 17:19,San Jose Diridon Caltrain Station,2,297,Subscriber
+192093,2/21/2014 17:13,Broadway St at Battery St,82,2/21/2014 17:18,Spear at Folsom,49,551,Subscriber
+192094,2/21/2014 17:13,2nd at South Park,64,2/21/2014 17:19,Market at Sansome,77,635,Subscriber
+192095,2/21/2014 17:14,South Van Ness at Market,66,2/21/2014 17:17,Civic Center BART (7th at Market),72,504,Subscriber
+192096,2/21/2014 17:14,Beale at Market,56,2/21/2014 17:28,San Francisco Caltrain 2 (330 Townsend),69,501,Subscriber
+192097,2/21/2014 17:14,Temporary Transbay Terminal (Howard at Beale),55,2/21/2014 17:23,San Francisco Caltrain 2 (330 Townsend),69,606,Subscriber
+192098,2/21/2014 17:14,Market at Sansome,77,2/21/2014 17:18,Harry Bridges Plaza (Ferry Building),50,603,Subscriber
+192099,2/21/2014 17:14,Townsend at 7th,65,2/21/2014 17:31,Temporary Transbay Terminal (Howard at Beale),55,455,Subscriber
+192100,2/21/2014 17:15,Yerba Buena Center of the Arts (3rd @ Howard),68,2/21/2014 17:21,Commercial at Montgomery,45,568,Subscriber
+192102,2/21/2014 17:15,Market at Sansome,77,2/21/2014 17:24,San Francisco Caltrain 2 (330 Townsend),69,488,Subscriber
+192103,2/21/2014 17:15,Market at 4th,76,2/21/2014 17:23,Temporary Transbay Terminal (Howard at Beale),55,512,Customer
+192104,2/21/2014 17:15,Harry Bridges Plaza (Ferry Building),50,2/21/2014 17:26,2nd at South Park,64,532,Customer
+192105,2/21/2014 17:16,Market at Sansome,77,2/21/2014 17:23,Civic Center BART (7th at Market),72,300,Subscriber
+192106,2/21/2014 17:16,San Francisco Caltrain 2 (330 Townsend),69,2/21/2014 17:33,South Van Ness at Market,66,421,Subscriber
+192107,2/21/2014 17:16,2nd at Townsend,61,2/21/2014 17:24,Steuart at Market,74,620,Subscriber
+192109,2/21/2014 17:17,Beale at Market,56,2/21/2014 17:28,San Francisco Caltrain (Townsend at 4th),70,636,Subscriber
+192110,2/21/2014 17:17,5th at Howard,57,2/21/2014 17:22,Market at 4th,76,377,Customer
+192111,2/21/2014 17:17,Commercial at Montgomery,45,2/21/2014 17:20,Davis at Jackson,42,285,Subscriber
+192112,2/21/2014 17:17,2nd at Folsom,62,2/21/2014 17:21,Market at Sansome,77,490,Subscriber
+192113,2/21/2014 17:18,Market at 4th,76,2/21/2014 17:26,Market at 10th,67,547,Subscriber
+192115,2/21/2014 17:19,San Pedro Square,6,2/21/2014 17:26,San Jose Diridon Caltrain Station,2,209,Subscriber
+192116,2/21/2014 17:17,2nd at Folsom,62,2/21/2014 17:21,Spear at Folsom,49,274,Subscriber
+192117,2/21/2014 17:20,San Francisco Caltrain 2 (330 Townsend),69,2/21/2014 17:29,Powell Street BART,39,630,Subscriber
+192118,2/21/2014 17:20,Market at 4th,76,2/21/2014 17:26,Market at 10th,67,417,Subscriber
+192119,2/21/2014 17:20,2nd at Townsend,61,2/21/2014 17:26,San Francisco Caltrain 2 (330 Townsend),69,477,Subscriber
+192120,2/21/2014 17:21,Embarcadero at Vallejo,48,2/21/2014 17:36,Powell at Post (Union Square),71,527,Customer
+192121,2/21/2014 17:21,Embarcadero at Vallejo,48,2/21/2014 17:36,Powell at Post (Union Square),71,429,Customer
+192122,2/21/2014 17:21,2nd at Townsend,61,2/21/2014 17:29,Harry Bridges Plaza (Ferry Building),50,350,Subscriber
+192123,2/21/2014 17:22,Civic Center BART (7th at Market),72,2/21/2014 17:28,Golden Gate at Polk,59,504,Subscriber
+192124,2/21/2014 17:22,Market at 10th,67,2/21/2014 17:33,San Francisco Caltrain (Townsend at 4th),70,550,Subscriber
+192125,2/21/2014 17:23,Commercial at Montgomery,45,2/21/2014 17:27,Market at Sansome,77,438,Subscriber
+192126,2/21/2014 17:23,Howard at 2nd,63,2/21/2014 17:31,Embarcadero at Bryant,54,585,Subscriber
+192127,2/21/2014 17:23,Clay at Battery,41,2/21/2014 17:29,Embarcadero at Bryant,54,405,Subscriber
+192128,2/21/2014 17:24,Mechanics Plaza (Market at Battery),75,2/21/2014 17:37,Embarcadero at Bryant,54,626,Subscriber
+192132,2/21/2014 17:25,2nd at South Park,64,2/21/2014 17:30,Market at Sansome,77,424,Subscriber
+192134,2/21/2014 17:26,2nd at South Park,64,2/21/2014 17:30,Market at Sansome,77,498,Subscriber
+192135,2/21/2014 17:28,Harry Bridges Plaza (Ferry Building),50,2/21/2014 17:33,Embarcadero at Bryant,54,389,Subscriber
+192136,2/21/2014 17:30,Mountain View City Hall,27,2/21/2014 17:34,Mountain View Caltrain Station,28,194,Subscriber
+192138,2/21/2014 17:31,Embarcadero at Sansome,60,2/21/2014 17:36,Steuart at Market,74,387,Subscriber
+192139,2/21/2014 17:31,Market at 10th,67,2/21/2014 17:33,Civic Center BART (7th at Market),72,319,Subscriber
+192141,2/21/2014 17:32,Spear at Folsom,49,2/21/2014 17:37,Harry Bridges Plaza (Ferry Building),50,551,Subscriber
+192144,2/21/2014 17:32,San Francisco Caltrain (Townsend at 4th),70,2/21/2014 17:43,Powell Street BART,39,457,Subscriber
+192145,2/21/2014 17:32,Embarcadero at Folsom,51,2/21/2014 17:35,Embarcadero at Bryant,54,340,Subscriber
+192146,2/21/2014 17:34,Temporary Transbay Terminal (Howard at Beale),55,2/21/2014 17:44,San Francisco Caltrain 2 (330 Townsend),69,602,Subscriber
+192147,2/21/2014 17:35,Market at 4th,76,2/21/2014 17:46,Davis at Jackson,42,448,Subscriber
+192148,2/21/2014 17:35,Commercial at Montgomery,45,2/21/2014 17:43,Mechanics Plaza (Market at Battery),75,610,Subscriber
+192149,2/21/2014 17:36,Embarcadero at Sansome,60,2/21/2014 17:42,Embarcadero at Folsom,51,511,Subscriber
+192150,2/21/2014 17:36,San Jose Diridon Caltrain Station,2,2/21/2014 17:41,Santa Clara at Almaden,4,262,Subscriber
+192151,2/21/2014 17:36,5th at Howard,57,2/21/2014 17:42,San Francisco Caltrain (Townsend at 4th),70,614,Customer
+192152,2/21/2014 17:36,San Jose Diridon Caltrain Station,2,2/21/2014 17:44,Paseo de San Antonio,7,174,Subscriber
+192153,2/21/2014 17:37,Commercial at Montgomery,45,2/21/2014 17:41,Post at Kearney,47,580,Subscriber
+192156,2/21/2014 17:38,San Antonio Shopping Center,31,2/21/2014 17:43,San Antonio Caltrain Station,29,85,Subscriber
+192157,2/21/2014 17:38,Steuart at Market,74,2/21/2014 17:46,Market at 4th,76,333,Subscriber
+192158,2/21/2014 17:39,Market at 10th,67,2/21/2014 17:43,Civic Center BART (7th at Market),72,491,Subscriber
+192159,2/21/2014 17:39,Clay at Battery,41,2/21/2014 17:47,Powell at Post (Union Square),71,632,Subscriber
+192160,2/21/2014 17:39,Howard at 2nd,63,2/21/2014 17:47,San Francisco Caltrain (Townsend at 4th),70,442,Subscriber
+192161,2/21/2014 17:39,Temporary Transbay Terminal (Howard at Beale),55,2/21/2014 17:51,Townsend at 7th,65,282,Subscriber
+192162,2/21/2014 17:40,5th at Howard,57,2/21/2014 18:02,5th at Howard,57,612,Subscriber
+192164,2/21/2014 17:41,Market at 10th,67,2/21/2014 17:52,Washington at Kearney,46,611,Subscriber
+192165,2/21/2014 17:41,2nd at Townsend,61,2/21/2014 17:49,Steuart at Market,74,557,Subscriber
+192168,2/21/2014 17:43,Embarcadero at Vallejo,48,2/21/2014 17:51,Temporary Transbay Terminal (Howard at Beale),55,415,Subscriber
+192169,2/21/2014 17:43,Powell Street BART,39,2/21/2014 17:51,South Van Ness at Market,66,627,Subscriber
+192170,2/21/2014 17:44,Temporary Transbay Terminal (Howard at Beale),55,2/21/2014 17:57,San Francisco Caltrain (Townsend at 4th),70,512,Subscriber
+192171,2/21/2014 17:45,Clay at Battery,41,2/21/2014 17:49,Beale at Market,56,546,Subscriber
+192174,2/21/2014 17:46,Embarcadero at Sansome,60,2/21/2014 18:51,Clay at Battery,41,539,Customer
+192175,2/21/2014 17:46,2nd at South Park,64,2/21/2014 17:56,Steuart at Market,74,493,Subscriber
+192176,2/21/2014 17:47,Temporary Transbay Terminal (Howard at Beale),55,2/21/2014 17:53,Harry Bridges Plaza (Ferry Building),50,516,Subscriber
+192177,2/21/2014 17:47,2nd at South Park,64,2/21/2014 17:52,Market at Sansome,77,459,Subscriber
+192178,2/21/2014 17:48,Commercial at Montgomery,45,2/21/2014 17:59,Powell at Post (Union Square),71,443,Subscriber
+192179,2/21/2014 17:48,Townsend at 7th,65,2/21/2014 18:01,Yerba Buena Center of the Arts (3rd @ Howard),68,382,Subscriber
+192180,2/21/2014 17:48,Temporary Transbay Terminal (Howard at Beale),55,2/21/2014 17:57,San Francisco Caltrain 2 (330 Townsend),69,455,Subscriber
+192181,2/21/2014 17:49,Broadway St at Battery St,82,2/21/2014 18:04,San Francisco Caltrain (Townsend at 4th),70,458,Subscriber
+192182,2/21/2014 17:49,Steuart at Market,74,2/21/2014 18:03,San Francisco Caltrain 2 (330 Townsend),69,337,Subscriber
+192184,2/21/2014 17:49,2nd at Folsom,62,2/21/2014 18:02,Davis at Jackson,42,327,Subscriber
+192187,2/21/2014 17:49,Commercial at Montgomery,45,2/21/2014 17:53,Beale at Market,56,598,Subscriber
+192188,2/21/2014 17:50,Powell Street BART,39,2/21/2014 18:17,Clay at Battery,41,630,Customer
+192189,2/21/2014 17:51,Market at Sansome,77,2/21/2014 17:56,Harry Bridges Plaza (Ferry Building),50,474,Subscriber
+192190,2/21/2014 17:52,Embarcadero at Folsom,51,2/21/2014 18:06,Townsend at 7th,65,343,Subscriber
+192191,2/21/2014 17:52,2nd at South Park,64,2/21/2014 18:05,Market at 4th,76,347,Subscriber
+192192,2/21/2014 17:53,Commercial at Montgomery,45,2/21/2014 17:59,Temporary Transbay Terminal (Howard at Beale),55,568,Subscriber
+192193,2/21/2014 17:54,South Van Ness at Market,66,2/21/2014 17:58,Civic Center BART (7th at Market),72,627,Subscriber
+192194,2/21/2014 17:54,Embarcadero at Vallejo,48,2/21/2014 17:59,Harry Bridges Plaza (Ferry Building),50,413,Subscriber
+192195,2/21/2014 17:54,Townsend at 7th,65,2/21/2014 18:01,2nd at Townsend,61,282,Subscriber
+192196,2/21/2014 17:56,Powell Street BART,39,2/21/2014 18:04,South Van Ness at Market,66,457,Subscriber
+192197,2/21/2014 17:57,2nd at Folsom,62,2/21/2014 18:05,Powell Street BART,39,463,Subscriber
+192198,2/21/2014 17:57,Embarcadero at Folsom,51,2/21/2014 18:06,San Francisco Caltrain (Townsend at 4th),70,511,Subscriber
+192199,2/21/2014 17:57,Market at Sansome,77,2/21/2014 18:06,San Francisco Caltrain (Townsend at 4th),70,480,Subscriber
+192202,2/21/2014 17:58,2nd at Townsend,61,2/21/2014 18:12,Embarcadero at Sansome,60,353,Subscriber
+192203,2/21/2014 17:58,Embarcadero at Bryant,54,2/21/2014 18:04,Steuart at Market,74,489,Subscriber
+192204,2/21/2014 17:59,2nd at South Park,64,2/21/2014 18:05,Yerba Buena Center of the Arts (3rd @ Howard),68,581,Subscriber
+192205,2/21/2014 17:59,Steuart at Market,74,2/21/2014 18:08,2nd at Townsend,61,564,Subscriber
+192206,2/21/2014 18:00,Spear at Folsom,49,2/21/2014 18:05,2nd at Townsend,61,359,Subscriber
+192207,2/21/2014 18:01,MLK Library,11,2/21/2014 18:04,San Salvador at 1st,8,191,Subscriber
+192208,2/21/2014 18:02,2nd at Townsend,61,2/21/2014 18:07,Spear at Folsom,49,395,Subscriber
+192209,2/21/2014 18:02,Embarcadero at Sansome,60,2/21/2014 18:17,Harry Bridges Plaza (Ferry Building),50,390,Subscriber
+192212,2/21/2014 18:04,Broadway St at Battery St,82,2/21/2014 18:06,Clay at Battery,41,267,Subscriber
+192213,2/21/2014 18:04,Clay at Battery,41,2/21/2014 18:09,Temporary Transbay Terminal (Howard at Beale),55,320,Subscriber
+192214,2/21/2014 18:04,Townsend at 7th,65,2/21/2014 18:16,Yerba Buena Center of the Arts (3rd @ Howard),68,318,Subscriber
+192215,2/21/2014 18:04,Market at 10th,67,2/21/2014 18:13,Market at Sansome,77,547,Subscriber
+192217,2/21/2014 18:05,Clay at Battery,41,2/21/2014 18:24,San Francisco Caltrain 2 (330 Townsend),69,604,Subscriber
+192218,2/21/2014 18:06,San Francisco Caltrain 2 (330 Townsend),69,2/21/2014 18:19,Golden Gate at Polk,59,337,Subscriber
+192219,2/21/2014 18:06,Castro Street and El Camino Real,32,2/21/2014 18:10,Mountain View Caltrain Station,28,77,Subscriber
+192223,2/21/2014 18:07,2nd at South Park,64,2/21/2014 18:12,Temporary Transbay Terminal (Howard at Beale),55,592,Subscriber
+192224,2/21/2014 18:09,San Francisco Caltrain 2 (330 Townsend),69,2/21/2014 18:24,Market at 4th,76,579,Subscriber
+192225,2/21/2014 18:09,Commercial at Montgomery,45,2/21/2014 18:17,Embarcadero at Bryant,54,596,Subscriber
+192228,2/21/2014 18:10,Embarcadero at Sansome,60,2/21/2014 18:17,Steuart at Market,74,352,Subscriber
+192229,2/21/2014 18:10,Embarcadero at Sansome,60,2/21/2014 18:20,Temporary Transbay Terminal (Howard at Beale),55,637,Subscriber
+192231,2/21/2014 18:10,Civic Center BART (7th at Market),72,2/21/2014 18:27,Broadway St at Battery St,82,300,Subscriber
+192232,2/21/2014 18:10,2nd at Folsom,62,2/21/2014 18:13,2nd at South Park,64,633,Subscriber
+192233,2/21/2014 18:10,Harry Bridges Plaza (Ferry Building),50,2/21/2014 18:18,Grant Avenue at Columbus Avenue,73,544,Subscriber
+192234,2/21/2014 18:12,Embarcadero at Vallejo,48,2/21/2014 18:24,San Francisco Caltrain (Townsend at 4th),70,572,Subscriber
+192235,2/21/2014 18:12,2nd at Townsend,61,2/21/2014 18:16,Howard at 2nd,63,564,Subscriber
+192236,2/21/2014 18:12,Howard at 2nd,63,2/21/2014 18:18,San Francisco Caltrain (Townsend at 4th),70,454,Subscriber
+192237,2/21/2014 18:14,Embarcadero at Vallejo,48,2/21/2014 18:25,2nd at South Park,64,338,Subscriber
+192238,2/21/2014 18:14,Mechanics Plaza (Market at Battery),75,2/21/2014 18:21,Yerba Buena Center of the Arts (3rd @ Howard),68,441,Subscriber
+192239,2/21/2014 18:15,Civic Center BART (7th at Market),72,2/21/2014 18:26,San Francisco Caltrain (Townsend at 4th),70,491,Subscriber
+192240,2/21/2014 18:15,San Francisco Caltrain (Townsend at 4th),70,2/21/2014 18:26,Harry Bridges Plaza (Ferry Building),50,222,Subscriber
+192241,2/21/2014 18:16,Powell at Post (Union Square),71,2/21/2014 18:21,Civic Center BART (7th at Market),72,625,Subscriber
+192242,2/21/2014 18:16,Clay at Battery,41,2/21/2014 18:34,San Francisco City Hall,58,385,Subscriber
+192243,2/21/2014 18:18,2nd at Townsend,61,2/21/2014 18:22,San Francisco Caltrain 2 (330 Townsend),69,359,Subscriber
+192244,2/21/2014 18:19,San Francisco Caltrain 2 (330 Townsend),69,2/21/2014 18:38,Washington at Kearney,46,545,Subscriber
+192245,2/21/2014 18:19,2nd at Townsend,61,2/21/2014 18:31,Harry Bridges Plaza (Ferry Building),50,517,Subscriber
+192246,2/21/2014 18:19,Mechanics Plaza (Market at Battery),75,2/21/2014 18:28,Civic Center BART (7th at Market),72,576,Subscriber
+192247,2/21/2014 18:19,Post at Kearney,47,2/21/2014 18:23,Powell Street BART,39,514,Subscriber
+192248,2/21/2014 18:19,Santa Clara at Almaden,4,2/21/2014 18:24,San Jose Diridon Caltrain Station,2,20,Subscriber
+192249,2/21/2014 18:20,Market at 4th,76,2/21/2014 18:26,San Francisco Caltrain (Townsend at 4th),70,333,Subscriber
+192251,2/21/2014 18:21,Powell Street BART,39,2/21/2014 18:33,Townsend at 7th,65,537,Subscriber
+192258,2/21/2014 18:25,Steuart at Market,74,2/21/2014 18:36,San Francisco Caltrain (Townsend at 4th),70,467,Subscriber
+192259,2/21/2014 18:25,Embarcadero at Sansome,60,2/21/2014 18:59,Broadway St at Battery St,82,483,Subscriber
+192260,2/21/2014 18:25,Market at 10th,67,2/21/2014 18:36,Townsend at 7th,65,590,Subscriber
+192261,2/21/2014 18:26,Market at 4th,76,2/21/2014 18:35,Townsend at 7th,65,280,Subscriber
+192262,2/21/2014 18:28,Embarcadero at Sansome,60,2/21/2014 18:33,Steuart at Market,74,353,Subscriber
+192263,2/21/2014 18:28,San Francisco Caltrain (Townsend at 4th),70,2/21/2014 18:34,Embarcadero at Bryant,54,636,Subscriber
+192264,2/21/2014 18:29,San Francisco Caltrain (Townsend at 4th),70,2/21/2014 18:32,2nd at Townsend,61,406,Subscriber
+192265,2/21/2014 18:29,San Francisco Caltrain (Townsend at 4th),70,2/21/2014 18:38,5th at Howard,57,511,Subscriber
+192266,2/21/2014 18:30,San Francisco Caltrain (Townsend at 4th),70,2/21/2014 18:37,Spear at Folsom,49,572,Subscriber
+192267,2/21/2014 18:30,Mountain View City Hall,27,2/21/2014 18:34,Mountain View Caltrain Station,28,689,Subscriber
+192268,2/21/2014 18:31,Townsend at 7th,65,2/21/2014 18:40,2nd at Townsend,61,473,Subscriber
+192269,2/21/2014 18:33,Steuart at Market,74,2/21/2014 18:39,Market at Sansome,77,562,Subscriber
+192270,2/21/2014 18:37,5th at Howard,57,2/21/2014 18:45,Market at 10th,67,582,Subscriber
+192271,2/21/2014 18:37,Yerba Buena Center of the Arts (3rd @ Howard),68,2/21/2014 18:43,2nd at Folsom,62,581,Subscriber
+192272,2/21/2014 18:37,San Jose Diridon Caltrain Station,2,2/21/2014 18:47,Paseo de San Antonio,7,43,Subscriber
+192273,2/21/2014 18:38,Yerba Buena Center of the Arts (3rd @ Howard),68,2/21/2014 18:48,Townsend at 7th,65,441,Subscriber
+192274,2/21/2014 18:38,Cowper at University,37,2/21/2014 18:43,Palo Alto Caltrain Station,34,644,Subscriber
+192275,2/21/2014 18:39,Powell at Post (Union Square),71,2/21/2014 18:51,Market at 10th,67,527,Subscriber
+192276,2/21/2014 18:39,2nd at Folsom,62,2/21/2014 18:46,Powell Street BART,39,259,Subscriber
+192277,2/21/2014 18:40,Broadway St at Battery St,82,2/21/2014 18:47,Embarcadero at Folsom,51,300,Subscriber
+192282,2/21/2014 18:42,Market at 10th,67,2/21/2014 18:44,Civic Center BART (7th at Market),72,364,Subscriber
+192284,2/21/2014 18:43,Temporary Transbay Terminal (Howard at Beale),55,2/21/2014 18:53,2nd at Townsend,61,555,Subscriber
+192285,2/21/2014 18:43,Powell at Post (Union Square),71,2/21/2014 18:52,Golden Gate at Polk,59,632,Subscriber
+192286,2/21/2014 18:44,San Francisco Caltrain (Townsend at 4th),70,2/21/2014 18:47,2nd at Townsend,61,411,Subscriber
+192290,2/21/2014 18:47,Powell Street BART,39,2/21/2014 18:56,Temporary Transbay Terminal (Howard at Beale),55,552,Subscriber
+192292,2/21/2014 18:47,San Antonio Caltrain Station,29,2/21/2014 18:54,Rengstorff Avenue / California Street,33,85,Customer
+192293,2/21/2014 18:48,Embarcadero at Bryant,54,2/21/2014 18:54,Harry Bridges Plaza (Ferry Building),50,340,Subscriber
+192294,2/21/2014 18:48,5th at Howard,57,2/21/2014 18:54,San Francisco Caltrain (Townsend at 4th),70,612,Subscriber
+192295,2/21/2014 18:48,Townsend at 7th,65,2/21/2014 18:51,San Francisco Caltrain (Townsend at 4th),70,343,Subscriber
+192296,2/21/2014 18:48,Post at Kearney,47,2/21/2014 18:56,Grant Avenue at Columbus Avenue,73,580,Subscriber
+192297,2/21/2014 18:48,San Antonio Caltrain Station,29,2/21/2014 18:53,Rengstorff Avenue / California Street,33,89,Subscriber
+192298,2/21/2014 18:53,Powell Street BART,39,2/21/2014 19:59,Civic Center BART (7th at Market),72,259,Customer
+192299,2/21/2014 18:53,2nd at Folsom,62,2/21/2014 19:05,Harry Bridges Plaza (Ferry Building),50,599,Subscriber
+192300,2/21/2014 18:54,San Salvador at 1st,8,2/21/2014 19:06,San Pedro Square,6,72,Subscriber
+192302,2/21/2014 18:54,Mechanics Plaza (Market at Battery),75,2/21/2014 19:00,Market at 4th,76,610,Subscriber
+192303,2/21/2014 18:55,Powell Street BART,39,2/21/2014 19:05,2nd at Folsom,62,463,Subscriber
+192304,2/21/2014 18:55,San Salvador at 1st,8,2/21/2014 19:06,San Pedro Square,6,70,Subscriber
+192306,2/21/2014 18:56,Temporary Transbay Terminal (Howard at Beale),55,2/21/2014 19:06,Embarcadero at Sansome,60,487,Subscriber
+192307,2/21/2014 18:56,Temporary Transbay Terminal (Howard at Beale),55,2/21/2014 18:58,Beale at Market,56,271,Subscriber
+192308,2/21/2014 18:57,Market at Sansome,77,2/21/2014 19:10,South Van Ness at Market,66,588,Subscriber
+192309,2/21/2014 18:57,2nd at South Park,64,2/21/2014 19:00,2nd at Folsom,62,279,Customer
+192310,2/21/2014 18:57,Mountain View Caltrain Station,28,2/21/2014 19:08,Rengstorff Avenue / California Street,33,689,Subscriber
+192311,2/21/2014 18:58,Market at 4th,76,2/21/2014 19:07,Market at 10th,67,579,Subscriber
+192312,2/21/2014 18:58,Mountain View Caltrain Station,28,2/21/2014 19:03,Evelyn Park and Ride,30,153,Subscriber
+192313,2/21/2014 19:01,San Francisco Caltrain (Townsend at 4th),70,2/21/2014 19:07,Embarcadero at Bryant,54,400,Subscriber
+192314,2/21/2014 19:05,2nd at South Park,64,2/21/2014 19:19,Market at 10th,67,532,Subscriber
+192316,2/21/2014 19:07,Beale at Market,56,2/21/2014 19:17,San Francisco Caltrain (Townsend at 4th),70,271,Subscriber
+192317,2/21/2014 19:08,Adobe on Almaden,5,2/21/2014 19:12,Paseo de San Antonio,7,639,Subscriber
+192318,2/21/2014 19:09,Market at Sansome,77,2/21/2014 19:18,Grant Avenue at Columbus Avenue,73,424,Subscriber
+192319,2/21/2014 19:12,Market at 10th,67,2/21/2014 19:20,Post at Kearney,47,417,Subscriber
+192321,2/21/2014 19:14,Market at Sansome,77,2/21/2014 19:26,South Van Ness at Market,66,498,Subscriber
+192322,2/21/2014 19:18,San Jose Diridon Caltrain Station,2,2/21/2014 19:30,MLK Library,11,52,Subscriber
+192323,2/21/2014 19:19,Howard at 2nd,63,2/21/2014 19:30,South Van Ness at Market,66,564,Subscriber
+192326,2/21/2014 19:20,2nd at Folsom,62,2/21/2014 19:30,Broadway St at Battery St,82,463,Subscriber
+192330,2/21/2014 19:23,Yerba Buena Center of the Arts (3rd @ Howard),68,2/21/2014 19:26,5th at Howard,57,628,Subscriber
+192333,2/21/2014 19:24,Howard at 2nd,63,2/21/2014 19:37,Townsend at 7th,65,556,Subscriber
+192335,2/21/2014 19:26,Spear at Folsom,49,2/21/2014 19:32,2nd at Townsend,61,481,Subscriber
+192336,2/21/2014 19:30,San Francisco Caltrain (Townsend at 4th),70,2/21/2014 19:42,Civic Center BART (7th at Market),72,442,Subscriber
+192337,2/21/2014 19:35,Beale at Market,56,2/21/2014 19:42,Powell Street BART,39,598,Subscriber
+192338,2/21/2014 19:36,San Jose Diridon Caltrain Station,2,2/21/2014 19:46,SJSU - San Salvador at 9th,16,20,Subscriber
+192339,2/21/2014 19:36,Harry Bridges Plaza (Ferry Building),50,2/21/2014 19:43,Embarcadero at Sansome,60,495,Subscriber
+192340,2/21/2014 19:38,San Francisco Caltrain (Townsend at 4th),70,2/21/2014 19:45,Townsend at 7th,65,276,Subscriber
+192341,2/21/2014 19:38,Market at 4th,76,2/21/2014 19:46,San Francisco Caltrain 2 (330 Townsend),69,486,Subscriber
+192342,2/21/2014 19:39,San Jose Diridon Caltrain Station,2,2/21/2014 19:50,Japantown,9,701,Subscriber
+192343,2/21/2014 19:39,San Francisco Caltrain 2 (330 Townsend),69,2/21/2014 19:46,Powell Street BART,39,452,Subscriber
+192344,2/21/2014 19:41,Arena Green / SAP Center,14,2/22/2014 0:36,Arena Green / SAP Center,14,96,Customer
+192345,2/21/2014 19:47,2nd at South Park,64,2/21/2014 20:01,Harry Bridges Plaza (Ferry Building),50,633,Customer
+192346,2/21/2014 19:51,2nd at Folsom,62,2/21/2014 19:55,2nd at South Park,64,279,Customer
+192347,2/21/2014 19:52,Mountain View Caltrain Station,28,2/21/2014 19:58,Castro Street and El Camino Real,32,134,Subscriber
+192350,2/21/2014 20:04,2nd at Folsom,62,2/21/2014 20:09,San Francisco Caltrain (Townsend at 4th),70,581,Subscriber
+192353,2/21/2014 20:05,2nd at South Park,64,2/21/2014 20:13,Harry Bridges Plaza (Ferry Building),50,279,Subscriber
+192354,2/21/2014 20:06,Davis at Jackson,42,2/21/2014 20:11,Embarcadero at Sansome,60,573,Subscriber
+192357,2/21/2014 20:07,Golden Gate at Polk,59,2/21/2014 20:10,Civic Center BART (7th at Market),72,313,Subscriber
+192359,2/21/2014 20:09,Steuart at Market,74,2/21/2014 20:26,San Francisco City Hall,58,451,Subscriber
+192365,2/21/2014 20:24,San Jose City Hall,10,2/22/2014 0:56,San Jose City Hall,10,168,Customer
+192372,2/21/2014 20:28,Embarcadero at Sansome,60,2/21/2014 20:33,Davis at Jackson,42,573,Subscriber
+192376,2/21/2014 20:32,Grant Avenue at Columbus Avenue,73,2/21/2014 20:39,2nd at Folsom,62,424,Subscriber
+192377,2/21/2014 20:37,Franklin at Maple,21,2/21/2014 20:41,Redwood City Caltrain Station,22,90,Subscriber
+192378,2/21/2014 20:38,2nd at South Park,64,2/21/2014 20:45,Yerba Buena Center of the Arts (3rd @ Howard),68,411,Subscriber
+192380,2/21/2014 20:47,Embarcadero at Sansome,60,2/21/2014 21:10,Market at 10th,67,373,Subscriber
+192381,2/21/2014 20:51,Civic Center BART (7th at Market),72,2/21/2014 20:58,Townsend at 7th,65,513,Subscriber
+192382,2/21/2014 20:53,Harry Bridges Plaza (Ferry Building),50,2/21/2014 21:01,Howard at 2nd,63,279,Subscriber
+192384,2/21/2014 20:59,Grant Avenue at Columbus Avenue,73,2/21/2014 21:07,Steuart at Market,74,544,Subscriber
+192385,2/21/2014 21:03,Davis at Jackson,42,2/21/2014 21:10,Spear at Folsom,49,380,Subscriber
+192386,2/21/2014 21:04,SJSU 4th at San Carlos,12,2/21/2014 21:09,SJSU - San Salvador at 9th,16,717,Subscriber
+192387,2/21/2014 21:09,Townsend at 7th,65,2/21/2014 21:13,San Francisco Caltrain (Townsend at 4th),70,513,Subscriber
+192388,2/21/2014 21:15,Paseo de San Antonio,7,2/21/2014 21:19,Adobe on Almaden,5,639,Subscriber
+192389,2/21/2014 21:19,Townsend at 7th,65,2/21/2014 21:24,San Francisco Caltrain (Townsend at 4th),70,590,Subscriber
+192390,2/21/2014 21:24,University and Emerson,35,2/21/2014 21:37,California Ave Caltrain Station,36,112,Subscriber
+192391,2/21/2014 21:24,Market at 4th,76,2/21/2014 21:35,San Francisco Caltrain 2 (330 Townsend),69,377,Subscriber
+192392,2/21/2014 21:26,2nd at Townsend,61,2/21/2014 21:37,2nd at Townsend,61,540,Subscriber
+192393,2/21/2014 21:35,Townsend at 7th,65,2/21/2014 21:39,San Francisco Caltrain (Townsend at 4th),70,426,Subscriber
+192394,2/21/2014 21:38,Post at Kearney,47,2/21/2014 21:43,5th at Howard,57,417,Subscriber
+192395,2/21/2014 21:40,Powell Street BART,39,2/21/2014 21:51,Grant Avenue at Columbus Avenue,73,286,Subscriber
+192396,2/21/2014 21:42,Spear at Folsom,49,2/21/2014 23:16,Spear at Folsom,49,380,Customer
+192397,2/21/2014 21:47,San Antonio Caltrain Station,29,2/21/2014 21:51,San Antonio Shopping Center,31,245,Subscriber
+192398,2/21/2014 21:57,San Francisco Caltrain (Townsend at 4th),70,2/21/2014 22:05,Powell Street BART,39,407,Subscriber
+192399,2/21/2014 22:08,San Francisco Caltrain 2 (330 Townsend),69,2/21/2014 22:14,5th at Howard,57,477,Subscriber
+192400,2/21/2014 22:14,Townsend at 7th,65,2/21/2014 22:27,Market at 4th,76,280,Subscriber
+192401,2/21/2014 22:27,Howard at 2nd,63,2/21/2014 22:32,2nd at Townsend,61,279,Subscriber
+192402,2/21/2014 22:29,San Pedro Square,6,2/21/2014 22:34,San Jose Civic Center,3,647,Subscriber
+192403,2/21/2014 22:29,San Pedro Square,6,2/21/2014 22:34,San Jose Civic Center,3,99,Subscriber
+192404,2/21/2014 22:39,Embarcadero at Sansome,60,2/21/2014 22:47,Harry Bridges Plaza (Ferry Building),50,495,Subscriber
+192405,2/21/2014 22:42,Clay at Battery,41,2/21/2014 22:44,Clay at Battery,41,472,Subscriber
+192406,2/21/2014 22:44,Washington at Kearney,46,2/21/2014 22:51,Market at Sansome,77,416,Subscriber
+192409,2/21/2014 23:01,San Francisco Caltrain 2 (330 Townsend),69,2/21/2014 23:11,Civic Center BART (7th at Market),72,335,Subscriber
+192410,2/21/2014 23:32,Market at Sansome,77,2/21/2014 23:40,Grant Avenue at Columbus Avenue,73,547,Subscriber
+192411,2/21/2014 23:38,Yerba Buena Center of the Arts (3rd @ Howard),68,2/21/2014 23:50,Townsend at 7th,65,382,Subscriber
+192412,2/21/2014 23:44,Paseo de San Antonio,7,2/21/2014 23:47,MLK Library,11,43,Subscriber
+192413,2/21/2014 23:47,MLK Library,11,2/21/2014 23:52,Santa Clara at Almaden,4,43,Subscriber
+192414,2/21/2014 23:53,California Ave Caltrain Station,36,2/22/2014 0:14,San Antonio Caltrain Station,29,201,Subscriber
+192415,2/22/2014 0:00,Market at Sansome,77,2/22/2014 0:12,Embarcadero at Bryant,54,416,Subscriber
+192416,2/22/2014 0:04,San Francisco Caltrain (Townsend at 4th),70,2/22/2014 0:14,2nd at Townsend,61,575,Subscriber
+192417,2/22/2014 0:18,Market at 4th,76,2/22/2014 0:38,Grant Avenue at Columbus Avenue,73,464,Subscriber
+192418,2/22/2014 0:19,Powell Street BART,39,2/22/2014 0:31,Clay at Battery,41,521,Subscriber
+192420,2/22/2014 0:50,Embarcadero at Sansome,60,2/22/2014 1:08,Civic Center BART (7th at Market),72,487,Subscriber
+192421,2/22/2014 0:50,SJSU 4th at San Carlos,12,2/22/2014 1:09,SJSU 4th at San Carlos,12,148,Subscriber
+192422,2/22/2014 1:07,San Francisco Caltrain (Townsend at 4th),70,2/22/2014 1:14,2nd at Folsom,62,558,Subscriber
+192423,2/22/2014 1:27,Davis at Jackson,42,2/22/2014 1:35,Market at 4th,76,494,Subscriber
+192424,2/22/2014 1:32,San Jose Diridon Caltrain Station,2,2/22/2014 1:39,Paseo de San Antonio,7,108,Subscriber
+192425,2/22/2014 1:50,Market at 4th,76,2/22/2014 1:58,Steuart at Market,74,437,Customer
+192426,2/22/2014 1:52,Market at 4th,76,2/22/2014 1:58,Steuart at Market,74,569,Customer
+192427,2/22/2014 1:55,Mountain View Caltrain Station,28,2/22/2014 2:03,Castro Street and El Camino Real,32,61,Subscriber
+192428,2/22/2014 2:14,Powell at Post (Union Square),71,2/22/2014 2:27,Market at Sansome,77,443,Subscriber
+192429,2/22/2014 3:06,Santa Clara at Almaden,4,2/22/2014 3:09,San Pedro Square,6,43,Subscriber
+192430,2/22/2014 4:57,Clay at Battery,41,2/22/2014 5:01,Market at Sansome,77,524,Subscriber
+192431,2/22/2014 5:31,Powell at Post (Union Square),71,2/22/2014 5:38,Harry Bridges Plaza (Ferry Building),50,397,Subscriber
+192432,2/22/2014 5:52,Embarcadero at Bryant,54,2/22/2014 5:54,Spear at Folsom,49,284,Subscriber
+192433,2/22/2014 6:27,Steuart at Market,74,2/22/2014 6:31,Embarcadero at Bryant,54,387,Subscriber
+192434,2/22/2014 6:51,Howard at 2nd,63,2/22/2014 6:57,Steuart at Market,74,534,Subscriber
+192444,2/22/2014 7:13,Spear at Folsom,49,2/22/2014 7:21,San Francisco Caltrain (Townsend at 4th),70,274,Subscriber
+192446,2/22/2014 7:18,Civic Center BART (7th at Market),72,2/22/2014 7:29,San Francisco Caltrain (Townsend at 4th),70,259,Customer
+192447,2/22/2014 7:19,Embarcadero at Sansome,60,2/22/2014 7:30,Powell Street BART,39,291,Subscriber
+192448,2/22/2014 7:22,Market at 4th,76,2/22/2014 7:29,2nd at Townsend,61,428,Subscriber
+192455,2/22/2014 7:30,Golden Gate at Polk,59,2/22/2014 7:35,5th at Howard,57,337,Subscriber
+192460,2/22/2014 7:43,Market at Sansome,77,2/22/2014 7:51,Embarcadero at Sansome,60,438,Subscriber
+192462,2/22/2014 7:43,Civic Center BART (7th at Market),72,2/22/2014 7:54,San Francisco Caltrain (Townsend at 4th),70,570,Subscriber
+192464,2/22/2014 7:50,Howard at 2nd,63,2/22/2014 7:55,Harry Bridges Plaza (Ferry Building),50,315,Subscriber
+192465,2/22/2014 8:00,2nd at South Park,64,2/22/2014 8:09,Harry Bridges Plaza (Ferry Building),50,618,Subscriber
+192466,2/22/2014 8:01,San Salvador at 1st,8,2/22/2014 12:03,San Salvador at 1st,8,663,Customer
+192467,2/22/2014 8:03,San Salvador at 1st,8,2/22/2014 12:03,San Salvador at 1st,8,202,Customer
+192469,2/22/2014 8:13,Embarcadero at Bryant,54,2/22/2014 8:21,Steuart at Market,74,405,Subscriber
+192480,2/22/2014 8:26,Market at 4th,76,2/22/2014 8:43,Embarcadero at Sansome,60,553,Subscriber
+192482,2/22/2014 8:35,San Francisco Caltrain (Townsend at 4th),70,2/22/2014 8:42,2nd at Folsom,62,513,Subscriber
+192483,2/22/2014 8:36,San Francisco Caltrain (Townsend at 4th),70,2/22/2014 8:47,Howard at 2nd,63,454,Subscriber
+192484,2/22/2014 8:41,San Francisco Caltrain 2 (330 Townsend),69,2/22/2014 8:49,5th at Howard,57,377,Subscriber
+192485,2/22/2014 8:42,Paseo de San Antonio,7,2/22/2014 8:51,San Jose Diridon Caltrain Station,2,174,Subscriber
+192486,2/22/2014 8:42,Paseo de San Antonio,7,2/22/2014 8:51,San Jose Diridon Caltrain Station,2,216,Subscriber
+192487,2/22/2014 8:43,Steuart at Market,74,2/22/2014 8:53,Embarcadero at Sansome,60,496,Customer
+192488,2/22/2014 8:45,Mountain View Caltrain Station,28,2/22/2014 8:51,Castro Street and El Camino Real,32,95,Subscriber
+192489,2/22/2014 8:51,Powell Street BART,39,2/22/2014 8:59,2nd at Townsend,61,507,Subscriber
+192490,2/22/2014 8:52,Market at 4th,76,2/22/2014 9:24,Steuart at Market,74,494,Customer
+192491,2/22/2014 8:57,Howard at 2nd,63,2/22/2014 9:00,2nd at Folsom,62,454,Subscriber
+192493,2/22/2014 9:06,Spear at Folsom,49,2/22/2014 9:12,2nd at Townsend,61,572,Subscriber
+192495,2/22/2014 9:06,2nd at Folsom,62,2/22/2014 9:10,Howard at 2nd,63,513,Subscriber
+192499,2/22/2014 9:10,Grant Avenue at Columbus Avenue,73,2/22/2014 9:16,Steuart at Market,74,534,Subscriber
+192500,2/22/2014 9:11,Howard at 2nd,63,2/22/2014 9:17,2nd at South Park,64,259,Customer
+192504,2/22/2014 9:19,Harry Bridges Plaza (Ferry Building),50,2/22/2014 9:25,Howard at 2nd,63,266,Subscriber
+192509,2/22/2014 9:25,2nd at South Park,64,2/22/2014 9:29,Howard at 2nd,63,259,Customer
+192510,2/22/2014 9:25,Steuart at Market,74,2/22/2014 9:34,Market at 4th,76,494,Customer
+192511,2/22/2014 9:29,Mechanics Plaza (Market at Battery),75,2/22/2014 9:57,Embarcadero at Sansome,60,341,Customer
+192512,2/22/2014 9:29,Mechanics Plaza (Market at Battery),75,2/22/2014 9:57,Embarcadero at Sansome,60,278,Customer
+192513,2/22/2014 9:29,South Van Ness at Market,66,2/22/2014 9:33,Civic Center BART (7th at Market),72,355,Subscriber
+192514,2/22/2014 9:30,Santa Clara at Almaden,4,2/22/2014 9:33,Arena Green / SAP Center,14,159,Subscriber
+192515,2/22/2014 9:33,Golden Gate at Polk,59,2/22/2014 9:44,Powell at Post (Union Square),71,269,Subscriber
+192516,2/22/2014 9:38,Howard at 2nd,63,2/22/2014 9:49,Golden Gate at Polk,59,266,Subscriber
+192517,2/22/2014 9:39,Embarcadero at Bryant,54,2/22/2014 9:42,Embarcadero at Folsom,51,626,Subscriber
+192518,2/22/2014 9:42,Golden Gate at Polk,59,2/22/2014 9:55,Embarcadero at Vallejo,48,371,Subscriber
+192519,2/22/2014 9:42,Post at Kearney,47,2/22/2014 10:09,Grant Avenue at Columbus Avenue,73,369,Customer
+192520,2/22/2014 9:42,Post at Kearney,47,2/22/2014 11:50,Grant Avenue at Columbus Avenue,73,530,Customer
+192522,2/22/2014 9:55,Powell at Post (Union Square),71,2/22/2014 10:19,Grant Avenue at Columbus Avenue,73,265,Customer
+192523,2/22/2014 9:55,Powell at Post (Union Square),71,2/22/2014 10:19,Grant Avenue at Columbus Avenue,73,482,Customer
+192524,2/22/2014 9:56,Steuart at Market,74,2/22/2014 10:01,Embarcadero at Bryant,54,405,Subscriber
+192525,2/22/2014 9:59,Spear at Folsom,49,2/22/2014 10:08,2nd at South Park,64,502,Customer
+192526,2/22/2014 9:59,Mezes Park,83,2/22/2014 10:08,Redwood City Medical Center,26,65,Customer
+192527,2/22/2014 9:59,Mezes Park,83,2/22/2014 10:08,Redwood City Medical Center,26,237,Customer
+192528,2/22/2014 9:59,Harry Bridges Plaza (Ferry Building),50,2/22/2014 10:21,Townsend at 7th,65,542,Customer
+192529,2/22/2014 10:04,Embarcadero at Sansome,60,2/22/2014 10:28,Embarcadero at Sansome,60,278,Customer
+192530,2/22/2014 10:04,Embarcadero at Sansome,60,2/22/2014 10:29,Embarcadero at Sansome,60,341,Customer
+192532,2/22/2014 10:07,Spear at Folsom,49,2/22/2014 10:11,2nd at Folsom,62,284,Subscriber
+192533,2/22/2014 10:09,Embarcadero at Bryant,54,2/22/2014 10:18,Commercial at Montgomery,45,387,Subscriber
+192534,2/22/2014 10:05,2nd at Townsend,61,2/22/2014 10:11,Harry Bridges Plaza (Ferry Building),50,428,Subscriber
+192535,2/22/2014 10:11,University and Emerson,35,2/22/2014 11:20,University and Emerson,35,695,Customer
+192536,2/22/2014 10:13,Steuart at Market,74,2/22/2014 18:45,Steuart at Market,74,321,Customer
+192537,2/22/2014 10:14,Steuart at Market,74,2/22/2014 18:45,Steuart at Market,74,620,Customer
+192538,2/22/2014 10:15,2nd at Townsend,61,2/22/2014 10:25,Powell Street BART,39,328,Subscriber
+192539,2/22/2014 10:16,Market at 10th,67,2/22/2014 10:34,Harry Bridges Plaza (Ferry Building),50,618,Customer
+192541,2/22/2014 10:17,Market at 10th,67,2/22/2014 10:34,Harry Bridges Plaza (Ferry Building),50,495,Customer
+192542,2/22/2014 10:21,Embarcadero at Bryant,54,2/22/2014 10:37,Market at Sansome,77,389,Subscriber
+192543,2/22/2014 10:21,Redwood City Medical Center,26,2/22/2014 10:26,Broadway at Main,25,65,Customer
+192544,2/22/2014 10:22,Redwood City Medical Center,26,2/22/2014 10:26,Broadway at Main,25,17,Customer
+192545,2/22/2014 10:25,Grant Avenue at Columbus Avenue,73,2/22/2014 10:46,Embarcadero at Sansome,60,482,Customer
+192546,2/22/2014 10:26,Grant Avenue at Columbus Avenue,73,2/22/2014 10:46,Embarcadero at Sansome,60,265,Customer
+192547,2/22/2014 10:26,Santa Clara at Almaden,4,2/22/2014 10:31,San Jose Diridon Caltrain Station,2,193,Subscriber
+192550,2/22/2014 10:28,Harry Bridges Plaza (Ferry Building),50,2/22/2014 10:40,Howard at 2nd,63,551,Customer
+192551,2/22/2014 10:30,Broadway at Main,25,2/22/2014 10:37,Franklin at Maple,21,65,Customer
+192552,2/22/2014 10:31,Embarcadero at Sansome,60,2/22/2014 10:44,Mechanics Plaza (Market at Battery),75,341,Customer
+192553,2/22/2014 10:31,Embarcadero at Sansome,60,2/22/2014 10:44,Mechanics Plaza (Market at Battery),75,278,Customer
+192554,2/22/2014 10:33,Embarcadero at Vallejo,48,2/22/2014 10:36,Embarcadero at Sansome,60,505,Subscriber
+192555,2/22/2014 10:38,Market at 4th,76,2/22/2014 10:59,Grant Avenue at Columbus Avenue,73,494,Customer
+192557,2/22/2014 10:40,Market at Sansome,77,2/22/2014 10:47,Harry Bridges Plaza (Ferry Building),50,567,Subscriber
+192558,2/22/2014 10:40,Spear at Folsom,49,2/22/2014 10:55,Powell at Post (Union Square),71,380,Subscriber
+192559,2/22/2014 10:45,Mechanics Plaza (Market at Battery),75,2/22/2014 10:56,Market at 4th,76,278,Customer
+192560,2/22/2014 10:45,Mechanics Plaza (Market at Battery),75,2/22/2014 10:57,Market at 4th,76,341,Customer
+192561,2/22/2014 10:46,Market at Sansome,77,2/22/2014 10:52,Clay at Battery,41,631,Subscriber
+192562,2/22/2014 10:51,San Francisco Caltrain 2 (330 Townsend),69,2/22/2014 10:57,5th at Howard,57,362,Subscriber
+192563,2/22/2014 10:57,2nd at Townsend,61,2/22/2014 11:00,San Francisco Caltrain (Townsend at 4th),70,566,Subscriber
+192564,2/22/2014 10:56,San Francisco Caltrain (Townsend at 4th),70,2/22/2014 11:27,Grant Avenue at Columbus Avenue,73,309,Customer
+192565,2/22/2014 10:57,San Francisco Caltrain (Townsend at 4th),70,2/22/2014 11:27,Grant Avenue at Columbus Avenue,73,359,Customer
+192566,2/22/2014 10:59,Civic Center BART (7th at Market),72,2/22/2014 11:23,Civic Center BART (7th at Market),72,487,Customer
+192567,2/22/2014 11:00,2nd at South Park,64,2/22/2014 11:10,Harry Bridges Plaza (Ferry Building),50,502,Customer
+192568,2/22/2014 11:01,San Francisco City Hall,58,2/22/2014 11:11,San Francisco Caltrain 2 (330 Townsend),69,339,Subscriber
+192569,2/22/2014 11:03,Civic Center BART (7th at Market),72,2/22/2014 11:09,Civic Center BART (7th at Market),72,625,Customer
+192570,2/22/2014 11:10,Franklin at Maple,21,2/22/2014 11:33,Mezes Park,83,65,Customer
+192571,2/22/2014 11:11,Franklin at Maple,21,2/22/2014 11:33,Mezes Park,83,17,Customer
+192572,2/22/2014 11:11,Rengstorff Avenue / California Street,33,2/22/2014 14:30,Rengstorff Avenue / California Street,33,89,Customer
+192573,2/22/2014 11:13,Yerba Buena Center of the Arts (3rd @ Howard),68,2/22/2014 11:29,Harry Bridges Plaza (Ferry Building),50,462,Customer
+192574,2/22/2014 11:15,Rengstorff Avenue / California Street,33,2/22/2014 14:29,Rengstorff Avenue / California Street,33,126,Customer
+192575,2/22/2014 11:22,Harry Bridges Plaza (Ferry Building),50,2/22/2014 11:32,Embarcadero at Sansome,60,358,Customer
+192576,2/22/2014 11:22,Harry Bridges Plaza (Ferry Building),50,2/22/2014 11:32,Embarcadero at Sansome,60,428,Customer
+192577,2/22/2014 11:23,Harry Bridges Plaza (Ferry Building),50,2/22/2014 11:27,Mechanics Plaza (Market at Battery),75,567,Subscriber
+192578,2/22/2014 11:24,Market at 4th,76,2/22/2014 11:32,Harry Bridges Plaza (Ferry Building),50,278,Subscriber
+192579,2/22/2014 11:26,Harry Bridges Plaza (Ferry Building),50,2/22/2014 13:00,Embarcadero at Sansome,60,315,Customer
+192580,2/22/2014 11:26,Civic Center BART (7th at Market),72,2/22/2014 11:40,Steuart at Market,74,487,Customer
+192582,2/22/2014 11:28,Harry Bridges Plaza (Ferry Building),50,2/22/2014 13:01,Embarcadero at Sansome,60,340,Customer
+192584,2/22/2014 11:29,Embarcadero at Bryant,54,2/22/2014 12:13,Harry Bridges Plaza (Ferry Building),50,402,Customer
+192585,2/22/2014 11:35,Harry Bridges Plaza (Ferry Building),50,2/22/2014 14:40,Harry Bridges Plaza (Ferry Building),50,495,Customer
+192586,2/22/2014 11:36,Davis at Jackson,42,2/22/2014 11:49,Embarcadero at Bryant,54,621,Subscriber
+192587,2/22/2014 11:37,Embarcadero at Sansome,60,2/22/2014 11:43,Harry Bridges Plaza (Ferry Building),50,428,Subscriber
+192588,2/22/2014 11:38,San Francisco Caltrain (Townsend at 4th),70,2/22/2014 11:52,Beale at Market,56,343,Subscriber
+192589,2/22/2014 11:39,San Francisco Caltrain (Townsend at 4th),70,2/22/2014 11:43,2nd at Townsend,61,274,Subscriber
+192590,2/22/2014 11:39,2nd at Folsom,62,2/22/2014 11:45,San Francisco Caltrain (Townsend at 4th),70,424,Subscriber
+192597,2/22/2014 11:46,Townsend at 7th,65,2/22/2014 11:59,Market at 10th,67,556,Customer
+192598,2/22/2014 11:47,Harry Bridges Plaza (Ferry Building),50,2/22/2014 12:03,2nd at Townsend,61,397,Customer
+192599,2/22/2014 11:47,Townsend at 7th,65,2/22/2014 11:59,Market at 10th,67,542,Subscriber
+192600,2/22/2014 11:50,Harry Bridges Plaza (Ferry Building),50,2/22/2014 12:16,Embarcadero at Bryant,54,523,Customer
+192601,2/22/2014 11:50,2nd at South Park,64,2/22/2014 11:55,Beale at Market,56,398,Subscriber
+192603,2/22/2014 11:51,Evelyn Park and Ride,30,2/22/2014 12:06,Mountain View City Hall,27,194,Customer
+192604,2/22/2014 11:52,Embarcadero at Bryant,54,2/22/2014 12:01,Davis at Jackson,42,427,Subscriber
+192609,2/22/2014 11:55,South Van Ness at Market,66,2/22/2014 12:06,Market at 4th,76,498,Customer
+192610,2/22/2014 11:55,South Van Ness at Market,66,2/22/2014 12:06,Market at 4th,76,457,Subscriber
+192611,2/22/2014 11:56,San Jose Civic Center,3,2/22/2014 12:03,San Pedro Square,6,107,Subscriber
+192612,2/22/2014 11:56,San Jose Civic Center,3,2/22/2014 12:03,San Pedro Square,6,99,Subscriber
+192613,2/22/2014 11:57,San Pedro Square,6,2/22/2014 12:00,San Pedro Square,6,715,Subscriber
+192615,2/22/2014 12:00,Powell at Post (Union Square),71,2/22/2014 12:13,Steuart at Market,74,478,Customer
+192616,2/22/2014 12:01,Powell at Post (Union Square),71,2/22/2014 12:13,Steuart at Market,74,437,Customer
+192617,2/22/2014 12:02,Civic Center BART (7th at Market),72,2/22/2014 12:17,Embarcadero at Vallejo,48,319,Subscriber
+192618,2/22/2014 12:02,Grant Avenue at Columbus Avenue,73,2/22/2014 12:24,2nd at Townsend,61,309,Customer
+192619,2/22/2014 12:03,Market at 10th,67,2/22/2014 12:06,Civic Center BART (7th at Market),72,579,Subscriber
+192620,2/22/2014 12:03,Market at 10th,67,2/22/2014 12:06,Civic Center BART (7th at Market),72,373,Subscriber
+192621,2/22/2014 12:04,Embarcadero at Sansome,60,2/22/2014 12:31,Market at 10th,67,379,Customer
+192622,2/22/2014 12:04,Embarcadero at Sansome,60,2/22/2014 12:30,Market at 10th,67,505,Customer
+192623,2/22/2014 12:09,Embarcadero at Folsom,51,2/22/2014 12:17,Post at Kearney,47,626,Subscriber
+192624,2/22/2014 12:10,Embarcadero at Bryant,54,2/22/2014 12:15,2nd at Townsend,61,400,Subscriber
+192625,2/22/2014 12:11,Market at Sansome,77,2/22/2014 15:21,Powell Street BART,39,635,Customer
+192627,2/22/2014 12:17,Grant Avenue at Columbus Avenue,73,2/22/2014 12:28,Harry Bridges Plaza (Ferry Building),50,530,Subscriber
+192628,2/22/2014 12:18,Market at Sansome,77,2/22/2014 12:23,Market at 4th,76,389,Customer
+192629,2/22/2014 12:19,Embarcadero at Bryant,54,2/22/2014 12:28,Harry Bridges Plaza (Ferry Building),50,523,Customer
+192630,2/22/2014 12:25,Market at Sansome,77,2/22/2014 14:57,Embarcadero at Vallejo,48,562,Customer
+192631,2/22/2014 12:26,2nd at Townsend,61,2/22/2014 12:58,Market at 4th,76,309,Customer
+192632,2/22/2014 12:28,Harry Bridges Plaza (Ferry Building),50,2/22/2014 12:37,Post at Kearney,47,343,Subscriber
+192635,2/22/2014 12:30,Mountain View Caltrain Station,28,2/22/2014 17:48,Mountain View Caltrain Station,28,118,Customer
+192636,2/22/2014 12:32,Mountain View Caltrain Station,28,2/22/2014 17:48,Mountain View Caltrain Station,28,129,Customer
+192637,2/22/2014 12:36,Market at 4th,76,2/22/2014 12:40,Market at 4th,76,457,Customer
+192638,2/22/2014 12:37,San Pedro Square,6,2/22/2014 12:42,San Jose Civic Center,3,196,Subscriber
+192639,2/22/2014 12:37,San Pedro Square,6,2/22/2014 12:43,MLK Library,11,44,Subscriber
+192640,2/22/2014 12:37,Harry Bridges Plaza (Ferry Building),50,2/22/2014 14:15,Commercial at Montgomery,45,278,Customer
+192641,2/22/2014 12:38,Harry Bridges Plaza (Ferry Building),50,2/22/2014 14:15,Commercial at Montgomery,45,222,Customer
+192642,2/22/2014 12:39,Commercial at Montgomery,45,2/22/2014 12:41,Clay at Battery,41,387,Subscriber
+192645,2/22/2014 12:41,Harry Bridges Plaza (Ferry Building),50,2/22/2014 12:48,Market at Sansome,77,402,Subscriber
+192647,2/22/2014 12:44,Market at 4th,76,2/22/2014 12:59,Golden Gate at Polk,59,498,Customer
+192648,2/22/2014 12:44,Market at 4th,76,2/22/2014 12:59,Golden Gate at Polk,59,457,Customer
+192650,2/22/2014 12:47,Clayat Battery,41,2/22/2014 12:55,Harry Bridges Plaza (Ferry Building),50,434,Customer
+192651,2/22/2014 12:47,Clayat Battery,41,2/22/2014 12:55,Harry Bridges Plaza (Ferry Building),50,509,Customer
+192653,2/22/2014 12:50,Townsend at 7th,65,2/22/2014 12:55,San Francisco Caltrain 2 (330 Townsend),69,276,Customer
+192654,2/22/2014 12:51,Embarcadero at Sansome,60,2/22/2014 12:59,Harry Bridges Plaza (Ferry Building),50,438,Subscriber
+192655,2/22/2014 12:51,Embarcadero at Sansome,60,2/22/2014 12:59,Harry Bridges Plaza (Ferry Building),50,482,Subscriber
+192656,2/22/2014 12:53,Powell Street BART,39,2/22/2014 13:06,Embarcadero at Sansome,60,515,Subscriber
+192659,2/22/2014 12:55,San Francisco Caltrain 2 (330 Townsend),69,2/22/2014 13:03,5th at Howard,57,339,Customer
+192660,2/22/2014 12:56,Davis at Jackson,42,2/22/2014 12:58,Harry Bridges Plaza (Ferry Building),50,573,Subscriber
+192661,2/22/2014 12:56,Harry Bridges Plaza (Ferry Building),50,2/22/2014 13:11,Embarcadero at Sansome,60,425,Customer
+192662,2/22/2014 12:56,Palo Alto Caltrain Station,34,2/22/2014 15:15,Palo Alto Caltrain Station,34,251,Customer
+192663,2/22/2014 12:57,Palo Alto Caltrain Station,34,2/22/2014 15:15,Palo Alto Caltrain Station,34,82,Customer
+192664,2/22/2014 12:57,Harry Bridges Plaza (Ferry Building),50,2/22/2014 13:11,Embarcadero at Sansome,60,509,Customer
+192665,2/22/2014 12:57,Yerba Buena Center of the Arts (3rd @ Howard),68,2/22/2014 13:14,Townsend at 7th,65,580,Customer
+192666,2/22/2014 12:57,Golden Gate at Polk,59,2/22/2014 13:27,Steuart at Market,74,465,Customer
+192667,2/22/2014 12:58,Steuart at Market,74,2/22/2014 13:23,Embarcadero at Sansome,60,352,Customer
+192668,2/22/2014 12:59,Harry Bridges Plaza (Ferry Building),50,2/22/2014 13:11,Embarcadero at Sansome,60,438,Customer
+192669,2/22/2014 12:59,Yerba Buena Center of the Arts (3rd @ Howard),68,2/22/2014 13:14,Townsend at 7th,65,503,Customer
+192670,2/22/2014 13:00,Golden Gate at Polk,59,2/22/2014 14:35,Grant Avenue at Columbus Avenue,73,457,Customer
+192671,2/22/2014 13:00,Golden Gate at Polk,59,2/22/2014 14:35,Grant Avenue at Columbus Avenue,73,498,Customer
+192672,2/22/2014 13:04,2nd at Townsend,61,2/22/2014 16:38,2nd at Townsend,61,481,Customer
+192673,2/22/2014 13:05,Davis at Jackson,42,2/22/2014 13:14,Embarcadero at Bryant,54,378,Subscriber
+192674,2/22/2014 13:05,Powell at Post (Union Square),71,2/22/2014 15:20,Powell at Post (Union Square),71,448,Customer
+192676,2/22/2014 13:08,Harry Bridges Plaza (Ferry Building),50,2/22/2014 14:27,Embarcadero at Vallejo,48,401,Customer
+192677,2/22/2014 13:08,Harry Bridges Plaza (Ferry Building),50,2/22/2014 14:22,Grant Avenue at Columbus Avenue,73,466,Customer
+192678,2/22/2014 13:08,5th at Howard,57,2/22/2014 13:14,Market at Sansome,77,339,Subscriber
+192679,2/22/2014 13:09,Harry Bridges Plaza (Ferry Building),50,2/22/2014 14:21,Grant Avenue at Columbus Avenue,73,428,Customer
+192680,2/22/2014 13:12,2nd at Folsom,62,2/22/2014 13:14,2nd at South Park,64,454,Subscriber
+192681,2/22/2014 13:13,Embarcadero at Bryant,54,2/22/2014 13:24,Davis at Jackson,42,416,Subscriber
+192682,2/22/2014 13:18,San Francisco Caltrain 2 (330 Townsend),69,2/22/2014 13:35,Post at Kearney,47,488,Customer
+192683,2/22/2014 13:18,Market at 10th,67,2/22/2014 13:44,Townsend at 7th,65,532,Subscriber
+192684,2/22/2014 13:18,South Van Ness at Market,66,2/22/2014 13:28,Market at 4th,76,289,Subscriber
+192685,2/22/2014 13:21,Townsend at 7th,65,2/22/2014 13:46,Harry Bridges Plaza (Ferry Building),50,537,Subscriber
+192686,2/22/2014 13:21,Post at Kearney,47,2/22/2014 13:31,2nd at South Park,64,626,Customer
+192687,2/22/2014 13:23,Post at Kearney,47,2/22/2014 13:31,2nd at South Park,64,549,Customer
+192688,2/22/2014 13:25,San Antonio Caltrain Station,29,2/23/2014 12:53,San Antonio Caltrain Station,29,201,Customer
+192689,2/22/2014 13:25,Market at 10th,67,2/22/2014 13:38,Powell Street BART,39,505,Customer
+192690,2/22/2014 13:26,Market at 10th,67,2/22/2014 13:44,Embarcadero at Vallejo,48,527,Subscriber
+192691,2/22/2014 13:26,South Van Ness at Market,66,2/22/2014 13:40,Steuart at Market,74,588,Customer
+192694,2/22/2014 13:27,Market at 10th,67,2/22/2014 13:38,Powell Street BART,39,379,Subscriber
+192695,2/22/2014 13:27,University and Emerson,35,2/22/2014 13:28,University and Emerson,35,681,Customer
+192696,2/22/2014 13:28,Embarcadero at Sansome,60,2/22/2014 13:42,Steuart at Market,74,618,Customer
+192697,2/22/2014 13:30,University and Emerson,35,2/22/2014 14:25,University and Emerson,35,243,Customer
+192698,2/22/2014 13:33,2nd at Townsend,61,2/22/2014 13:52,Embarcadero at Sansome,60,277,Customer
+192699,2/22/2014 13:33,2nd at Townsend,61,2/22/2014 14:00,Embarcadero at Vallejo,48,410,Customer
+192700,2/22/2014 13:34,Powell Street BART,39,2/22/2014 13:38,Civic Center BART (7th at Market),72,281,Subscriber
+192701,2/22/2014 13:34,San Francisco Caltrain 2 (330 Townsend),69,2/22/2014 14:03,Harry Bridges Plaza (Ferry Building),50,414,Subscriber
+192702,2/22/2014 13:34,Japantown,9,2/22/2014 13:45,Paseo de San Antonio,7,701,Subscriber
+192703,2/22/2014 13:38,Grant Avenue at Columbus Avenue,73,2/22/2014 13:42,Harry Bridges Plaza (Ferry Building),50,464,Subscriber
+192705,2/22/2014 13:42,Harry Bridges Plaza (Ferry Building),50,2/22/2014 13:44,Harry Bridges Plaza (Ferry Building),50,516,Customer
+192706,2/22/2014 13:43,Harry Bridges Plaza (Ferry Building),50,2/22/2014 17:43,Harry Bridges Plaza (Ferry Building),50,502,Customer
+192707,2/22/2014 13:43,San Francisco City Hall,58,2/22/2014 13:50,Powell Street BART,39,450,Customer
+192708,2/22/2014 13:44,Townsend at 7th,65,2/22/2014 14:05,Embarcadero at Sansome,60,532,Subscriber
+192710,2/22/2014 13:45,Santa Clara at Almaden,4,2/22/2014 13:47,Arena Green / SAP Center,14,645,Subscriber
+192711,2/22/2014 13:46,Civic Center BART (7th at Market),72,2/22/2014 14:00,Steuart at Market,74,373,Customer
+192712,2/22/2014 13:46,Civic Center BART (7th at Market),72,2/22/2014 14:00,Steuart at Market,74,355,Customer
+192713,2/22/2014 13:46,Harry Bridges Plaza (Ferry Building),50,2/22/2014 14:18,Grant Avenue at Columbus Avenue,73,350,Customer
+192714,2/22/2014 13:46,Harry Bridges Plaza (Ferry Building),50,2/22/2014 14:18,Grant Avenue at Columbus Avenue,73,517,Customer
+192715,2/22/2014 13:47,Powell at Post (Union Square),71,2/22/2014 14:00,Embarcadero at Folsom,51,380,Subscriber
+192716,2/22/2014 13:49,Harry Bridges Plaza (Ferry Building),50,2/22/2014 17:43,Harry Bridges Plaza (Ferry Building),50,530,Customer
+192717,2/22/2014 13:52,Howard at 2nd,63,2/22/2014 13:54,Yerba Buena Center of the Arts (3rd @ Howard),68,259,Subscriber
+192718,2/22/2014 13:54,Redwood City Public Library,24,2/23/2014 11:39,Redwood City Public Library,24,712,Customer
+192719,2/22/2014 13:54,Redwood City Public Library,24,2/23/2014 11:38,Redwood City Public Library,24,700,Customer
+192720,2/22/2014 13:54,Market at 4th,76,2/22/2014 14:29,Embarcadero at Vallejo,48,347,Customer
+192721,2/22/2014 13:54,Commercial at Montgomery,45,2/22/2014 14:09,Davis at Jackson,42,388,Subscriber
+192722,2/22/2014 13:55,Embarcadero at Sansome,60,2/22/2014 14:01,Embarcadero at Vallejo,48,265,Customer
+192723,2/22/2014 13:56,Yerba Buena Center of the Arts (3rd @ Howard),68,2/22/2014 17:55,Yerba Buena Center of the Arts (3rd @ Howard),68,541,Customer
+192724,2/22/2014 13:56,Civic Center BART (7th at Market),72,2/22/2014 14:03,Townsend at 7th,65,364,Subscriber
+192725,2/22/2014 13:59,Mechanics Plaza (Market at Battery),75,2/22/2014 14:11,South Van Ness at Market,66,310,Subscriber
+192726,2/22/2014 14:00,Powell at Post (Union Square),71,2/22/2014 14:08,Civic Center BART (7th at Market),72,429,Customer
+192727,2/22/2014 14:01,San Francisco Caltrain 2 (330 Townsend),69,2/22/2014 14:16,San Francisco City Hall,58,361,Subscriber
+192728,2/22/2014 14:02,San Antonio Shopping Center,31,2/22/2014 14:17,Castro Street and El Camino Real,32,245,Customer
+192729,2/22/2014 14:05,Beale at Market,56,2/22/2014 14:11,Spear at Folsom,49,398,Subscriber
+192730,2/22/2014 14:05,Harry Bridges Plaza (Ferry Building),50,2/22/2014 14:16,Grant Avenue at Columbus Avenue,73,414,Subscriber
+192731,2/22/2014 14:06,Embarcadero at Folsom,51,2/22/2014 14:21,Powell at Post (Union Square),71,300,Subscriber
+192732,2/22/2014 14:09,Harry Bridges Plaza (Ferry Building),50,2/22/2014 14:16,Grant Avenue at Columbus Avenue,73,464,Subscriber
+192733,2/22/2014 14:10,Embarcadero at Bryant,54,2/22/2014 14:15,Harry Bridges Plaza (Ferry Building),50,596,Customer
+192734,2/22/2014 14:12,Harry Bridges Plaza (Ferry Building),50,2/22/2014 14:30,2nd at Townsend,61,537,Customer
+192735,2/22/2014 14:12,Grant Avenue at Columbus Avenue,73,2/22/2014 14:31,South Van Ness at Market,66,589,Subscriber
+192736,2/22/2014 14:12,Grant Avenue at Columbus Avenue,73,2/22/2014 14:31,South Van Ness at Market,66,587,Subscriber
+192737,2/22/2014 14:13,Market at 10th,67,2/22/2014 14:30,2nd at Folsom,62,633,Customer
+192738,2/22/2014 14:13,Howard at 2nd,63,2/22/2014 14:21,Powell at Post (Union Square),71,551,Subscriber
+192740,2/22/2014 14:14,Townsend at 7th,65,2/22/2014 14:37,Harry Bridges Plaza (Ferry Building),50,364,Customer
+192741,2/22/2014 14:14,Beale at Market,56,2/22/2014 14:22,2nd at South Park,64,546,Subscriber
+192743,2/22/2014 14:19,Arena Green / SAP Center,14,2/22/2014 14:24,Adobe on Almaden,5,255,Customer
+192744,2/22/2014 14:19,Davis at Jackson,42,2/22/2014 14:26,Commercial at Montgomery,45,388,Subscriber
+192745,2/22/2014 14:20,Harry Bridges Plaza (Ferry Building),50,2/22/2014 18:54,Harry Bridges Plaza (Ferry Building),50,462,Customer
+192746,2/22/2014 14:21,Yerba Buena Center of the Arts (3rd @ Howard),68,2/22/2014 18:08,Yerba Buena Center of the Arts (3rd @ Howard),68,374,Customer
+192747,2/22/2014 14:21,Harry Bridges Plaza (Ferry Building),50,2/22/2014 15:27,San Francisco Caltrain 2 (330 Townsend),69,596,Customer
+192748,2/22/2014 14:22,Yerba Buena Center of the Arts (3rd @ Howard),68,2/22/2014 18:08,Yerba Buena Center of the Arts (3rd @ Howard),68,318,Customer
+192749,2/22/2014 14:23,Golden Gate at Polk,59,2/22/2014 14:33,Howard at 2nd,63,504,Subscriber
+192750,2/22/2014 14:25,Temporary Transbay Terminal (Howard at Beale),55,2/22/2014 14:43,South Van Ness at Market,66,568,Subscriber
+192752,2/22/2014 14:29,Harry Bridges Plaza (Ferry Building),50,2/22/2014 18:53,Harry Bridges Plaza (Ferry Building),50,609,Customer
+192753,2/22/2014 14:29,Harry Bridges Plaza (Ferry Building),50,2/22/2014 18:54,Harry Bridges Plaza (Ferry Building),50,636,Customer
+192754,2/22/2014 14:31,Harry Bridges Plaza (Ferry Building),50,2/22/2014 18:53,Harry Bridges Plaza (Ferry Building),50,434,Customer
+192755,2/22/2014 14:34,Embarcadero at Sansome,60,2/22/2014 15:40,Embarcadero at Sansome,60,277,Customer
+192756,2/22/2014 14:35,Embarcadero at Sansome,60,2/22/2014 15:40,Embarcadero at Sansome,60,449,Customer
+192759,2/22/2014 14:36,Temporary Transbay Terminal (Howard at Beale),55,2/22/2014 16:05,2nd at Folsom,62,592,Customer
+192760,2/22/2014 14:36,Temporary Transbay Terminal (Howard at Beale),55,2/22/2014 16:05,2nd at Folsom,62,461,Customer
+192762,2/22/2014 14:38,Palo Alto Caltrain Station,34,2/22/2014 15:06,San Antonio Caltrain Station,29,295,Subscriber
+192765,2/22/2014 14:39,San Pedro Square,6,2/22/2014 14:47,San Jose Diridon Caltrain Station,2,99,Subscriber
+192766,2/22/2014 14:40,Market at 4th,76,2/22/2014 14:53,San Francisco Caltrain 2 (330 Townsend),69,563,Customer
+192767,2/22/2014 14:41,Powell at Post (Union Square),71,2/22/2014 14:48,2nd at Folsom,62,300,Subscriber
+192773,2/22/2014 14:45,Embarcadero at Vallejo,48,2/22/2014 14:52,Embarcadero at Sansome,60,623,Subscriber
+192774,2/22/2014 14:46,2nd at Townsend,61,2/22/2014 14:48,2nd at Townsend,61,510,Customer
+192777,2/22/2014 14:49,San Francisco Caltrain 2 (330 Townsend),69,2/22/2014 14:53,Townsend at 7th,65,604,Subscriber
+192778,2/22/2014 14:52,2nd at Folsom,62,2/22/2014 15:09,Market at 10th,67,633,Customer
+192779,2/22/2014 14:54,Townsend at 7th,65,2/22/2014 14:58,San Francisco Caltrain (Townsend at 4th),70,441,Subscriber
+192780,2/22/2014 14:54,2nd at Townsend,61,2/22/2014 15:19,Embarcadero at Sansome,60,510,Customer
+192781,2/22/2014 14:54,2nd at Townsend,61,2/22/2014 15:19,Embarcadero at Sansome,60,348,Customer
+192782,2/22/2014 14:56,Grant Avenue at Columbus Avenue,73,2/22/2014 15:09,Post at Kearney,47,428,Customer
+192783,2/22/2014 14:56,Commercial at Montgomery,45,2/22/2014 15:08,Embarcadero at Bryant,54,278,Subscriber
+192785,2/22/2014 14:56,Spear at Folsom,49,2/22/2014 15:09,Market at 4th,76,506,Subscriber
+192786,2/22/2014 14:57,2nd at Townsend,61,2/22/2014 15:19,Embarcadero at Sansome,60,397,Customer
+192787,2/22/2014 14:58,Palo Alto Caltrain Station,34,2/22/2014 15:35,Palo Alto Caltrain Station,34,690,Customer
+192788,2/22/2014 15:00,2nd at Townsend,61,2/22/2014 16:41,Powell at Post (Union Square),71,400,Customer
+192789,2/22/2014 15:00,Beale at Market,56,2/22/2014 16:30,Market at 4th,76,535,Customer
+192790,2/22/2014 15:01,Steuart at Market,74,2/22/2014 17:38,Steuart at Market,74,544,Customer
+192791,2/22/2014 15:01,Powell at Post (Union Square),71,2/22/2014 18:12,Embarcadero at Sansome,60,551,Subscriber
+192793,2/22/2014 15:02,Market at 4th,76,2/22/2014 15:08,Civic Center BART (7th at Market),72,280,Subscriber
+192794,2/22/2014 15:03,Paseo de San Antonio,7,2/22/2014 15:17,San Salvador at 1st,8,87,Subscriber
+192795,2/22/2014 15:05,Clayat Battery,41,2/23/2014 11:57,Clay at Battery,41,521,Customer
+192796,2/22/2014 15:07,Adobe on Almaden,5,2/22/2014 15:25,SJSU - San Salvador at 9th,16,675,Customer
+192797,2/22/2014 15:07,San Francisco Caltrain 2 (330 Townsend),69,2/22/2014 15:23,Steuart at Market,74,617,Customer
+192798,2/22/2014 15:07,San Francisco Caltrain 2 (330 Townsend),69,2/22/2014 15:23,Steuart at Market,74,409,Customer
+192799,2/22/2014 15:08,2nd at Townsend,61,2/22/2014 15:14,Embarcadero at Folsom,51,279,Subscriber
+192800,2/22/2014 15:09,Clayat Battery,41,2/23/2014 11:57,Clay at Battery,41,548,Customer
+192801,2/22/2014 15:09,Davis at Jackson,42,2/22/2014 15:35,Townsend at 7th,65,386,Customer
+192802,2/22/2014 15:10,Davis at Jackson,42,2/22/2014 15:35,Townsend at 7th,65,416,Customer
+192804,2/22/2014 15:11,Harry Bridges Plaza (Ferry Building),50,2/22/2014 19:22,Embarcadero at Sansome,60,580,Customer
+192805,2/22/2014 15:12,Davis at Jackson,42,2/22/2014 15:15,Beale at Market,56,260,Subscriber
+192807,2/22/2014 15:16,San Francisco Caltrain 2 (330 Townsend),69,2/22/2014 15:20,Townsend at 7th,65,276,Subscriber
+192809,2/22/2014 15:20,Harry Bridges Plaza (Ferry Building),50,2/22/2014 19:22,Embarcadero at Sansome,60,364,Customer
+192810,2/22/2014 15:20,2nd at South Park,64,2/22/2014 15:38,Grant Avenue at Columbus Avenue,73,549,Customer
+192812,2/22/2014 15:20,5th at Howard,57,2/22/2014 15:29,Clay at Battery,41,365,Subscriber
+192814,2/22/2014 15:21,Harry Bridges Plaza (Ferry Building),50,2/22/2014 19:22,Embarcadero at Sansome,60,413,Customer
+192815,2/22/2014 15:21,2nd at South Park,64,2/22/2014 15:37,Grant Avenue at Columbus Avenue,73,547,Customer
+192816,2/22/2014 15:21,Harry Bridges Plaza (Ferry Building),50,2/22/2014 15:56,Townsend at 7th,65,495,Subscriber
+192817,2/22/2014 15:22,Embarcadero at Sansome,60,2/22/2014 16:03,Embarcadero at Sansome,60,348,Customer
+192818,2/22/2014 15:22,Embarcadero at Sansome,60,2/22/2014 16:03,Embarcadero at Sansome,60,397,Customer
+192819,2/22/2014 15:22,Embarcadero at Sansome,60,2/22/2014 16:03,Embarcadero at Sansome,60,510,Customer
+192820,2/22/2014 15:23,Harry Bridges Plaza (Ferry Building),50,2/22/2014 15:35,Market at 4th,76,516,Customer
+192821,2/22/2014 15:23,Harry Bridges Plaza (Ferry Building),50,2/22/2014 15:35,Market at 4th,76,494,Customer
+192825,2/22/2014 15:27,SJSU - San Salvador at 9th,16,2/22/2014 15:43,MLK Library,11,24,Customer
+192826,2/22/2014 15:28,San Francisco Caltrain 2 (330 Townsend),69,2/22/2014 15:50,Golden Gate at Polk,59,596,Customer
+192827,2/22/2014 15:31,Embarcadero at Bryant,54,2/22/2014 15:36,Embarcadero at Bryant,54,336,Customer
+192829,2/22/2014 15:33,South Van Ness at Market,66,2/22/2014 15:45,Steuart at Market,74,587,Subscriber
+192830,2/22/2014 15:35,Embarcadero at Bryant,54,2/22/2014 15:46,Embarcadero at Vallejo,48,378,Customer
+192831,2/22/2014 15:36,2nd at Townsend,61,2/22/2014 15:42,Embarcadero at Folsom,51,540,Subscriber
+192833,2/22/2014 15:38,Market at Sansome,77,2/22/2014 15:45,Steuart at Market,74,464,Subscriber
+192834,2/22/2014 15:42,2nd at South Park,64,2/22/2014 15:50,Embarcadero at Bryant,54,454,Subscriber
+192835,2/22/2014 15:42,2nd at South Park,64,2/22/2014 15:50,Embarcadero at Bryant,54,546,Subscriber
+192836,2/22/2014 15:48,Embarcadero at Sansome,60,2/22/2014 16:13,Civic Center BART (7th at Market),72,277,Customer
+192837,2/22/2014 15:48,Embarcadero at Sansome,60,2/22/2014 16:13,Civic Center BART (7th at Market),72,358,Customer
+192838,2/22/2014 15:51,Embarcadero at Sansome,60,2/22/2014 16:13,Civic Center BART (7th at Market),72,449,Customer
+192839,2/22/2014 15:53,Civic Center BART (7th at Market),72,2/22/2014 16:06,San Francisco Caltrain 2 (330 Townsend),69,429,Subscriber
+192840,2/22/2014 15:54,Mountain View City Hall,27,2/22/2014 15:59,Mountain View City Hall,27,51,Customer
+192841,2/22/2014 15:54,Mountain View City Hall,27,2/22/2014 16:44,Mountain View City Hall,27,53,Customer
+192842,2/22/2014 15:56,Grant Avenue at Columbus Avenue,73,2/22/2014 16:11,Market at 4th,76,312,Customer
+192843,2/22/2014 15:56,Grant Avenue at Columbus Avenue,73,2/22/2014 16:11,Market at 4th,76,414,Customer
+192844,2/22/2014 15:57,Embarcadero at Sansome,60,2/22/2014 16:00,Embarcadero at Vallejo,48,623,Subscriber
+192847,2/22/2014 16:00,Broadway St at Battery St,82,2/22/2014 16:08,Market at 4th,76,483,Subscriber
+192849,2/22/2014 16:00,Golden Gate at Polk,59,2/22/2014 17:46,Golden Gate at Polk,59,266,Customer
+192850,2/22/2014 16:02,Embarcadero at Vallejo,48,2/22/2014 16:32,2nd at Townsend,61,410,Customer
+192853,2/22/2014 16:02,San Francisco City Hall,58,2/22/2014 16:15,Washington at Kearney,46,456,Subscriber
+192854,2/22/2014 16:04,Embarcadero at Sansome,60,2/22/2014 16:20,Embarcadero at Bryant,54,397,Customer
+192855,2/22/2014 16:05,Embarcadero at Sansome,60,2/22/2014 16:20,Embarcadero at Bryant,54,510,Customer
+192856,2/22/2014 16:05,Embarcadero at Sansome,60,2/22/2014 16:20,Embarcadero at Bryant,54,348,Customer
+192857,2/22/2014 16:06,San Francisco Caltrain (Townsend at 4th),70,2/22/2014 16:29,Embarcadero at Sansome,60,333,Subscriber
+192860,2/22/2014 16:07,San Francisco Caltrain (Townsend at 4th),70,2/22/2014 16:28,Embarcadero at Sansome,60,566,Subscriber
+192861,2/22/2014 16:07,Spear at Folsom,49,2/22/2014 18:16,Embarcadero at Sansome,60,395,Customer
+192862,2/22/2014 16:08,Broadway St at Battery St,82,2/22/2014 16:27,Civic Center BART (7th at Market),72,431,Subscriber
+192863,2/22/2014 16:09,Harry Bridges Plaza (Ferry Building),50,2/22/2014 16:19,Market at 4th,76,286,Subscriber
+192865,2/22/2014 16:10,Spear at Folsom,49,2/22/2014 18:16,Embarcadero at Sansome,60,529,Customer
+192866,2/22/2014 16:10,Embarcadero at Sansome,60,2/22/2014 16:26,Golden Gate at Polk,59,425,Subscriber
+192868,2/22/2014 16:11,Market at 4th,76,2/22/2014 16:22,Townsend at 7th,65,483,Customer
+192869,2/22/2014 16:11,Market at 4th,76,2/22/2014 16:22,Townsend at 7th,65,341,Customer
+192870,2/22/2014 16:11,Market at Sansome,77,2/22/2014 16:29,San Francisco City Hall,58,443,Customer
+192871,2/22/2014 16:13,Washington at Kearney,46,2/22/2014 16:45,Embarcadero at Sansome,60,545,Customer
+192872,2/22/2014 16:14,Embarcadero at Sansome,60,2/22/2014 16:30,Powell Street BART,39,496,Subscriber
+192873,2/22/2014 16:16,Embarcadero at Vallejo,48,2/22/2014 16:43,Market at Sansome,77,562,Customer
+192874,2/22/2014 16:17,Washington at Kearney,46,2/22/2014 16:45,Embarcadero at Sansome,60,314,Customer
+192875,2/22/2014 16:17,Townsend at 7th,65,2/22/2014 16:41,Grant Avenue at Columbus Avenue,73,604,Subscriber
+192877,2/22/2014 16:21,Embarcadero at Folsom,51,2/22/2014 16:28,2nd at Townsend,61,279,Subscriber
+192878,2/22/2014 16:21,Embarcadero at Bryant,54,2/22/2014 16:28,2nd at Townsend,61,561,Customer
+192879,2/22/2014 16:22,Embarcadero at Bryant,54,2/22/2014 16:28,2nd at Townsend,61,621,Customer
+192880,2/22/2014 16:23,Market at 10th,67,2/22/2014 16:26,Civic Center BART (7th at Market),72,633,Subscriber
+192884,2/22/2014 16:29,Arena Green / SAP Center,14,2/22/2014 16:38,San Jose Civic Center,3,645,Subscriber
+192885,2/22/2014 16:30,Harry Bridges Plaza (Ferry Building),50,2/22/2014 16:35,Temporary Transbay Terminal (Howard at Beale),55,335,Subscriber
+192886,2/22/2014 16:31,Embarcadero at Vallejo,48,2/22/2014 16:33,Embarcadero at Vallejo,48,527,Customer
+192887,2/22/2014 16:31,2nd at Folsom,62,2/22/2014 16:34,Embarcadero at Bryant,54,558,Subscriber
+192888,2/22/2014 16:31,Grant Avenue at Columbus Avenue,73,2/22/2014 16:52,Powell at Post (Union Square),71,350,Customer
+192889,2/22/2014 16:31,Grant Avenue at Columbus Avenue,73,2/22/2014 16:51,Powell at Post (Union Square),71,547,Customer
+192891,2/22/2014 16:32,5th at Howard,57,2/22/2014 16:38,Market at 4th,76,338,Subscriber
+192893,2/22/2014 16:36,Civic Center BART (7th at Market),72,2/22/2014 16:39,Market at 10th,67,625,Subscriber
+192894,2/22/2014 16:37,Howard at 2nd,63,2/22/2014 16:42,5th at Howard,57,513,Subscriber
+192895,2/22/2014 16:37,2nd at Townsend,61,2/22/2014 16:47,2nd at Folsom,62,621,Customer
+192896,2/22/2014 16:39,Civic Center BART (7th at Market),72,2/22/2014 16:44,Market at 4th,76,280,Subscriber
+192897,2/22/2014 16:40,Embarcadero at Vallejo,48,2/22/2014 17:49,Grant Avenue at Columbus Avenue,73,265,Customer
+192898,2/22/2014 16:40,Embarcadero at Vallejo,48,2/22/2014 17:49,Grant Avenue at Columbus Avenue,73,623,Customer
+192899,2/22/2014 16:43,Embarcadero at Bryant,54,2/22/2014 16:51,San Francisco Caltrain (Townsend at 4th),70,454,Subscriber
+192902,2/22/2014 16:48,Grant Avenue at Columbus Avenue,73,2/22/2014 17:02,Spear at Folsom,49,604,Subscriber
+192903,2/22/2014 16:49,Harry Bridges Plaza (Ferry Building),50,2/22/2014 17:11,Embarcadero at Sansome,60,593,Customer
+192906,2/22/2014 16:50,South Van Ness at Market,66,2/22/2014 21:09,Market at 10th,67,589,Customer
+192907,2/22/2014 16:52,Howard at 2nd,63,2/22/2014 16:58,San Francisco Caltrain 2 (330 Townsend),69,504,Subscriber
+192908,2/22/2014 16:54,San Salvador at 1st,8,2/22/2014 17:18,Paseo de San Antonio,7,202,Subscriber
+192909,2/22/2014 16:55,Post at Kearney,47,2/22/2014 17:03,2nd at Townsend,61,488,Subscriber
+192910,2/22/2014 16:57,Powell at Post (Union Square),71,2/22/2014 17:10,San Francisco City Hall,58,292,Customer
+192911,2/22/2014 16:57,Powell at Post (Union Square),71,2/22/2014 17:10,San Francisco City Hall,58,448,Customer
+192912,2/22/2014 16:57,Townsend at 7th,65,2/22/2014 17:10,5th at Howard,57,483,Customer
+192913,2/22/2014 16:58,Townsend at 7th,65,2/22/2014 17:09,5th at Howard,57,495,Customer
+192914,2/22/2014 17:03,Harry Bridges Plaza (Ferry Building),50,2/22/2014 17:12,Market at 4th,76,478,Customer
+192917,2/22/2014 17:05,San Francisco Caltrain (Townsend at 4th),70,2/22/2014 17:15,Spear at Folsom,49,454,Subscriber
+192918,2/22/2014 17:06,Howard at 2nd,63,2/22/2014 17:12,2nd at Townsend,61,419,Subscriber
+192919,2/22/2014 17:08,Market at Sansome,77,2/22/2014 17:22,South Van Ness at Market,66,526,Subscriber
+192920,2/22/2014 17:11,Embarcadero at Sansome,60,2/22/2014 17:35,Powell Street BART,39,593,Customer
+192921,2/22/2014 17:13,San Jose Civic Center,3,2/22/2014 17:24,San Jose Diridon Caltrain Station,2,645,Subscriber
+192922,2/22/2014 17:18,Townsend at 7th,65,2/22/2014 17:40,Davis at Jackson,42,386,Customer
+192923,2/22/2014 17:18,Townsend at 7th,65,2/22/2014 17:40,Davis at Jackson,42,416,Customer
+192924,2/22/2014 17:19,Embarcadero at Bryant,54,2/22/2014 17:26,San Francisco Caltrain (Townsend at 4th),70,278,Subscriber
+192925,2/22/2014 17:19,Embarcadero at Bryant,54,2/22/2014 17:23,2nd at Townsend,61,558,Subscriber
+192926,2/22/2014 17:21,San Francisco City Hall,58,2/22/2014 17:30,Powell Street BART,39,448,Customer
+192927,2/22/2014 17:21,San Francisco City Hall,58,2/22/2014 17:30,Powell Street BART,39,292,Customer
+192928,2/22/2014 17:28,Market at Sansome,77,2/22/2014 17:45,Post at Kearney,47,402,Subscriber
+192929,2/22/2014 17:29,University and Emerson,35,2/22/2014 17:39,California Ave Caltrain Station,36,681,Subscriber
+192930,2/22/2014 17:30,San Francisco City Hall,58,2/22/2014 17:38,Powell Street BART,39,451,Subscriber
+192931,2/22/2014 17:36,Washington at Kearney,46,2/22/2014 18:07,Embarcadero at Sansome,60,584,Customer
+192932,2/22/2014 17:36,Washington at Kearney,46,2/22/2014 18:07,Embarcadero at Sansome,60,439,Customer
+192934,2/22/2014 17:38,Embarcadero at Sansome,60,2/22/2014 17:44,Davis at Jackson,42,333,Subscriber
+192935,2/22/2014 17:38,Market at 4th,76,2/22/2014 17:50,Townsend at 7th,65,338,Subscriber
+192936,2/22/2014 17:41,2nd at Townsend,61,2/22/2014 18:01,San Francisco City Hall,58,558,Subscriber
+192937,2/22/2014 17:43,Embarcadero at Bryant,54,2/22/2014 17:48,2nd at Townsend,61,467,Subscriber
+192938,2/22/2014 17:43,Embarcadero at Bryant,54,2/22/2014 17:48,2nd at Townsend,61,570,Subscriber
+192939,2/22/2014 17:44,Market at 4th,76,2/22/2014 17:55,Embarcadero at Sansome,60,289,Subscriber
+192940,2/22/2014 17:48,San Francisco Caltrain (Townsend at 4th),70,2/22/2014 18:01,Embarcadero at Bryant,54,612,Subscriber
+192941,2/22/2014 17:47,Castro Street and El Camino Real,32,2/22/2014 17:53,Mountain View Caltrain Station,28,713,Subscriber
+192944,2/22/2014 17:51,Clay at Battery,41,2/22/2014 18:06,Powell at Post (Union Square),71,387,Subscriber
+192945,2/22/2014 17:51,Clay at Battery,41,2/22/2014 18:06,Powell at Post (Union Square),71,631,Subscriber
+192946,2/22/2014 17:52,2nd at Townsend,61,2/22/2014 17:57,San Francisco Caltrain (Townsend at 4th),70,288,Subscriber
+192947,2/22/2014 17:54,Powell at Post (Union Square),71,2/22/2014 18:16,Grant Avenue at Columbus Avenue,73,547,Customer
+192948,2/22/2014 17:54,Powell at Post (Union Square),71,2/22/2014 18:16,Grant Avenue at Columbus Avenue,73,350,Customer
+192949,2/22/2014 17:55,2nd at Folsom,62,2/22/2014 18:02,San Francisco Caltrain (Townsend at 4th),70,461,Subscriber
+192950,2/22/2014 17:55,San Jose Diridon Caltrain Station,2,2/22/2014 18:05,San Jose City Hall,10,645,Subscriber
+192953,2/22/2014 17:59,Market at 4th,76,2/22/2014 18:06,Harry Bridges Plaza (Ferry Building),50,535,Subscriber
+192957,2/22/2014 18:05,Grant Avenue at Columbus Avenue,73,2/22/2014 18:17,Market at Sansome,77,517,Subscriber
+192958,2/22/2014 18:07,Steuart at Market,74,2/22/2014 18:12,Market at Sansome,77,499,Subscriber
+192959,2/22/2014 18:12,Harry Bridges Plaza (Ferry Building),50,2/22/2014 18:19,Embarcadero at Sansome,60,464,Subscriber
+192960,2/22/2014 18:12,Harry Bridges Plaza (Ferry Building),50,2/22/2014 18:19,Embarcadero at Sansome,60,409,Subscriber
+192962,2/22/2014 18:16,Harry Bridges Plaza (Ferry Building),50,2/22/2014 18:30,San Francisco Caltrain 2 (330 Townsend),69,530,Subscriber
+192963,2/22/2014 18:16,San Francisco Caltrain (Townsend at 4th),70,2/22/2014 18:20,2nd at Townsend,61,288,Subscriber
+192964,2/22/2014 18:18,Embarcadero at Sansome,60,2/22/2014 18:38,Civic Center BART (7th at Market),72,289,Subscriber
+192965,2/22/2014 18:19,Castro Street and El Camino Real,32,2/22/2014 18:24,Mountain View Caltrain Station,28,693,Subscriber
+192966,2/22/2014 18:22,Temporary Transbay Terminal (Howard at Beale),55,2/22/2014 18:35,Civic Center BART (7th at Market),72,591,Subscriber
+192967,2/22/2014 18:23,Powell at Post (Union Square),71,2/22/2014 19:27,Powell at Post (Union Square),71,285,Customer
+192968,2/22/2014 18:24,Civic Center BART (7th at Market),72,2/22/2014 18:29,Market at 4th,76,633,Customer
+192970,2/22/2014 18:26,Commercial at Montgomery,45,2/22/2014 18:36,2nd at Folsom,62,388,Subscriber
+192971,2/22/2014 18:26,Commercial at Montgomery,45,2/22/2014 18:36,2nd at Folsom,62,222,Subscriber
+192972,2/22/2014 18:27,2nd at Townsend,61,2/22/2014 18:33,5th at Howard,57,288,Subscriber
+192973,2/22/2014 18:28,Grant Avenue at Columbus Avenue,73,2/22/2014 18:33,Davis at Jackson,42,359,Subscriber
+192974,2/22/2014 18:40,Market at 4th,76,2/22/2014 18:54,Clay at Battery,41,280,Customer
+192975,2/22/2014 18:40,Market at 4th,76,2/22/2014 18:54,Clay at Battery,41,312,Customer
+192976,2/22/2014 18:40,2nd at Townsend,61,2/22/2014 18:45,2nd at Folsom,62,488,Subscriber
+192977,2/22/2014 18:44,San Francisco Caltrain (Townsend at 4th),70,2/22/2014 18:57,Powell at Post (Union Square),71,614,Subscriber
+192981,2/22/2014 19:02,Yerba Buena Center of the Arts (3rd @ Howard),68,2/22/2014 19:07,2nd at South Park,64,259,Subscriber
+192985,2/22/2014 19:16,Market at 10th,67,2/22/2014 19:23,Market at 4th,76,582,Subscriber
+192986,2/22/2014 19:19,Paseo de San Antonio,7,2/22/2014 19:25,San Pedro Square,6,202,Subscriber
+192987,2/22/2014 19:24,Embarcadero at Sansome,60,2/22/2014 19:33,Steuart at Market,74,409,Customer
+192988,2/22/2014 19:41,Embarcadero at Sansome,60,2/22/2014 20:08,San Francisco Caltrain (Townsend at 4th),70,566,Subscriber
+192989,2/22/2014 19:41,Embarcadero at Sansome,60,2/22/2014 20:08,San Francisco Caltrain (Townsend at 4th),70,439,Subscriber
+192990,2/22/2014 19:55,Market at 4th,76,2/22/2014 20:05,San Francisco Caltrain (Townsend at 4th),70,478,Subscriber
+192991,2/22/2014 19:56,5th at Howard,57,2/22/2014 20:02,San Francisco Caltrain (Townsend at 4th),70,483,Subscriber
+192992,2/22/2014 19:57,Market at Sansome,77,2/22/2014 20:08,Embarcadero at Vallejo,48,490,Subscriber
+192993,2/22/2014 20:06,San Jose Diridon Caltrain Station,2,2/22/2014 20:12,Adobe on Almaden,5,209,Subscriber
+192994,2/22/2014 20:08,Mechanics Plaza (Market at Battery),75,2/22/2014 20:14,Washington at Kearney,46,560,Subscriber
+192995,2/22/2014 20:12,Adobe on Almaden,5,2/22/2014 20:17,San Jose Civic Center,3,209,Subscriber
+192996,2/22/2014 20:18,Powell Street BART,39,2/22/2014 20:27,Civic Center BART (7th at Market),72,598,Customer
+192997,2/22/2014 20:19,2nd at Folsom,62,2/22/2014 20:24,Market at Sansome,77,222,Subscriber
+192998,2/22/2014 20:19,2nd at Folsom,62,2/22/2014 20:25,Market at Sansome,77,619,Subscriber
+193000,2/22/2014 20:21,San Salvador at 1st,8,2/22/2014 20:27,SJSU - San Salvador at 9th,16,209,Subscriber
+193001,2/22/2014 20:29,SJSU - San Salvador at 9th,16,2/22/2014 20:34,MLK Library,11,209,Subscriber
+193002,2/22/2014 20:30,Embarcadero at Bryant,54,2/22/2014 20:34,2nd at South Park,64,546,Subscriber
+193003,2/22/2014 20:34,MLK Library,11,2/22/2014 20:41,San Jose City Hall,10,209,Subscriber
+193004,2/22/2014 20:42,San Jose City Hall,10,2/22/2014 20:46,SJSU 4th at San Carlos,12,209,Subscriber
+193005,2/22/2014 20:46,SJSU 4th at San Carlos,12,2/22/2014 20:51,Paseo de San Antonio,7,209,Subscriber
+193006,2/22/2014 20:49,San Pedro Square,6,2/22/2014 20:52,Santa Clara at Almaden,4,70,Subscriber
+193007,2/22/2014 20:53,Paseo de San Antonio,7,2/22/2014 20:58,St James Park,13,209,Subscriber
+193008,2/22/2014 20:54,San Jose Diridon Caltrain Station,2,2/22/2014 21:04,Paseo de San Antonio,7,174,Subscriber
+193009,2/22/2014 20:54,San Jose Diridon Caltrain Station,2,2/22/2014 21:04,Paseo de San Antonio,7,175,Subscriber
+193010,2/22/2014 20:58,St James Park,13,2/22/2014 21:04,San Pedro Square,6,209,Subscriber
+193013,2/22/2014 21:17,Grant Avenue at Columbus Avenue,73,2/22/2014 21:27,Powell at Post (Union Square),71,547,Subscriber
+193014,2/22/2014 21:24,San Francisco Caltrain 2 (330 Townsend),69,2/22/2014 21:28,Townsend at 7th,65,486,Subscriber
+193015,2/22/2014 21:31,San Francisco City Hall,58,2/22/2014 21:40,Yerba Buena Center of the Arts (3rd @ Howard),68,361,Subscriber
+193017,2/22/2014 21:33,Steuart at Market,74,2/22/2014 21:40,Grant Avenue at Columbus Avenue,73,404,Subscriber
+193019,2/22/2014 21:45,Market at 10th,67,2/22/2014 21:57,2nd at Folsom,62,553,Subscriber
+193020,2/22/2014 21:49,Arena Green / SAP Center,14,2/22/2014 21:51,Santa Clara at Almaden,4,159,Subscriber
+193021,2/22/2014 21:49,Beale at Market,56,2/22/2014 21:56,Yerba Buena Center of the Arts (3rd @ Howard),68,260,Subscriber
+193022,2/22/2014 21:55,Embarcadero at Sansome,60,2/22/2014 21:59,Davis at Jackson,42,413,Subscriber
+193025,2/22/2014 22:28,Market at 10th,67,2/22/2014 22:30,Market at 10th,67,589,Subscriber
+193026,2/22/2014 22:30,Santa Clara at Almaden,4,2/22/2014 22:36,Paseo de San Antonio,7,249,Subscriber
+193028,2/22/2014 22:41,Howard at 2nd,63,2/22/2014 22:47,Powell Street BART,39,271,Subscriber
+193029,2/22/2014 22:42,Market at 4th,76,2/22/2014 22:48,San Francisco Caltrain (Townsend at 4th),70,494,Subscriber
+193030,2/22/2014 22:54,Powell Street BART,39,2/22/2014 23:00,Market at 10th,67,271,Subscriber
+193031,2/22/2014 23:14,MLK Library,11,2/22/2014 23:23,SJSU - San Salvador at 9th,16,232,Customer
+193032,2/22/2014 23:18,Spear at Folsom,49,2/22/2014 23:22,2nd at Townsend,61,370,Subscriber
+193033,2/22/2014 23:37,Powell at Post (Union Square),71,2/22/2014 23:49,San Francisco Caltrain (Townsend at 4th),70,614,Subscriber
+193034,2/22/2014 23:44,Townsend at 7th,65,2/22/2014 23:47,San Francisco Caltrain (Townsend at 4th),70,486,Subscriber
+193036,2/23/2014 0:29,Clayat Battery,41,2/23/2014 0:37,Grant Avenue at Columbus Avenue,73,312,Customer
+193037,2/23/2014 0:29,Clayat Battery,41,2/23/2014 0:37,Grant Avenue at Columbus Avenue,73,280,Customer
+193038,2/23/2014 0:53,Powell at Post (Union Square),71,2/23/2014 1:01,Grant Avenue at Columbus Avenue,73,400,Subscriber
+193039,2/23/2014 1:01,Powell Street BART,39,2/23/2014 1:09,Embarcadero at Vallejo,48,328,Subscriber
+193040,2/23/2014 1:02,Grant Avenue at Columbus Avenue,73,2/23/2014 1:07,Clay at Battery,41,312,Customer
+193041,2/23/2014 1:02,Grant Avenue at Columbus Avenue,73,2/23/2014 1:07,Clay at Battery,41,280,Customer
+193042,2/23/2014 1:58,Mountain View Caltrain Station,28,2/23/2014 2:06,Castro Street and El Camino Real,32,713,Subscriber
+193043,2/23/2014 2:58,Santa Clara at Almaden,4,2/23/2014 3:04,San Pedro Square,6,209,Subscriber
+193044,2/23/2014 3:18,Post at Kearney,47,2/23/2014 3:37,Powell Street BART,39,586,Subscriber
+193045,2/23/2014 6:16,Steuart at Market,74,2/23/2014 8:30,Steuart at Market,74,465,Customer
+193046,2/23/2014 6:49,Howard at 2nd,63,2/23/2014 6:55,Steuart at Market,74,300,Subscriber
+193047,2/23/2014 7:29,Golden Gate at Polk,59,2/23/2014 7:35,5th at Howard,57,334,Subscriber
+193048,2/23/2014 7:34,Yerba Buena Center of the Arts (3rd @ Howard),68,2/23/2014 7:37,5th at Howard,57,260,Subscriber
+193049,2/23/2014 7:58,San Francisco Caltrain (Townsend at 4th),70,2/23/2014 8:20,Embarcadero at Sansome,60,494,Subscriber
+193050,2/23/2014 7:58,San Francisco Caltrain (Townsend at 4th),70,2/23/2014 8:21,Embarcadero at Sansome,60,439,Subscriber
+193051,2/23/2014 8:00,Powell at Post (Union Square),71,2/23/2014 8:05,Civic Center BART (7th at Market),72,489,Customer
+193052,2/23/2014 8:09,5th at Howard,57,2/23/2014 8:15,Clay at Battery,41,260,Subscriber
+193053,2/23/2014 8:21,Embarcadero at Sansome,60,2/23/2014 8:49,Embarcadero at Sansome,60,494,Subscriber
+193054,2/23/2014 8:21,Embarcadero at Sansome,60,2/23/2014 8:49,Embarcadero at Sansome,60,439,Subscriber
+193056,2/23/2014 8:35,Santa Clara at Almaden,4,2/23/2014 9:20,Santa Clara at Almaden,4,70,Customer
+193057,2/23/2014 8:35,Santa Clara at Almaden,4,2/23/2014 9:20,Santa Clara at Almaden,4,159,Customer
+193061,2/23/2014 8:50,Embarcadero at Sansome,60,2/23/2014 8:57,Harry Bridges Plaza (Ferry Building),50,494,Subscriber
+193062,2/23/2014 8:50,Embarcadero at Sansome,60,2/23/2014 8:57,Harry Bridges Plaza (Ferry Building),50,439,Subscriber
+193064,2/23/2014 9:11,Davis at Jackson,42,2/24/2014 8:53,San Francisco Caltrain (Townsend at 4th),70,413,Subscriber
+193065,2/23/2014 9:11,Davis at Jackson,42,2/23/2014 9:27,Golden Gate at Polk,59,588,Subscriber
+193066,2/23/2014 9:13,2nd at South Park,64,2/23/2014 9:18,Market at Sansome,77,626,Subscriber
+193068,2/23/2014 9:15,Embarcadero at Sansome,60,2/23/2014 9:21,Washington at Kearney,46,573,Subscriber
+193069,2/23/2014 9:17,Clay at Battery,41,2/23/2014 9:22,Howard at 2nd,63,267,Subscriber
+193070,2/23/2014 9:18,Mountain View City Hall,27,2/23/2014 9:28,Mountain View Caltrain Station,28,97,Customer
+193071,2/23/2014 9:20,Mountain View City Hall,27,2/23/2014 9:28,Mountain View Caltrain Station,28,146,Customer
+193072,2/23/2014 9:23,Mountain View City Hall,27,2/23/2014 9:27,Mountain View Caltrain Station,28,67,Subscriber
+193073,2/23/2014 9:26,Yerba Buena Center of the Arts (3rd @ Howard),68,2/23/2014 9:36,San Francisco Caltrain (Townsend at 4th),70,541,Customer
+193074,2/23/2014 9:26,Harry Bridges Plaza (Ferry Building),50,2/23/2014 9:40,San Francisco Caltrain (Townsend at 4th),70,439,Subscriber
+193075,2/23/2014 9:26,Harry Bridges Plaza (Ferry Building),50,2/23/2014 9:40,San Francisco Caltrain (Townsend at 4th),70,494,Subscriber
+193076,2/23/2014 9:30,Civic Center BART (7th at Market),72,2/23/2014 11:16,Grant Avenue at Columbus Avenue,73,489,Customer
+193077,2/23/2014 9:31,Harry Bridges Plaza (Ferry Building),50,2/23/2014 9:34,Spear at Folsom,49,535,Subscriber
+193078,2/23/2014 9:31,Powell Street BART,39,2/23/2014 9:36,Powell at Post (Union Square),71,635,Customer
+193079,2/23/2014 9:36,Civic Center BART (7th at Market),72,2/23/2014 11:37,Civic Center BART (7th at Market),72,598,Customer
+193080,2/23/2014 9:38,Washington at Kearney,46,2/23/2014 9:58,Embarcadero at Sansome,60,525,Customer
+193081,2/23/2014 9:39,Civic Center BART (7th at Market),72,2/23/2014 11:16,Grant Avenue at Columbus Avenue,73,358,Customer
+193082,2/23/2014 9:38,Washington at Kearney,46,2/23/2014 9:58,Embarcadero at Sansome,60,384,Customer
+193083,2/23/2014 9:39,Powell Street BART,39,2/23/2014 9:43,Civic Center BART (7th at Market),72,514,Subscriber
+193085,2/23/2014 9:40,Powell at Post (Union Square),71,2/23/2014 10:05,Embarcadero at Vallejo,48,547,Customer
+193086,2/23/2014 9:41,Mountain View Caltrain Station,28,2/23/2014 9:48,Castro Street and El Camino Real,32,67,Subscriber
+193088,2/23/2014 9:45,Market at 4th,76,2/23/2014 9:56,Steuart at Market,74,633,Customer
+193089,2/23/2014 9:46,Powell at Post (Union Square),71,2/23/2014 9:57,San Francisco Caltrain (Townsend at 4th),70,631,Subscriber
+193090,2/23/2014 9:47,Powell at Post (Union Square),71,2/23/2014 10:05,Embarcadero at Vallejo,48,357,Customer
+193091,2/23/2014 9:50,San Jose Civic Center,3,2/23/2014 12:37,San Jose Civic Center,3,685,Customer
+193092,2/23/2014 9:51,San Jose Civic Center,3,2/23/2014 12:37,San Jose Civic Center,3,196,Customer
+193093,2/23/2014 9:51,2nd at Townsend,61,2/23/2014 10:07,Embarcadero at Sansome,60,481,Customer
+193094,2/23/2014 9:52,Temporary Transbay Terminal (Howard at Beale),55,2/23/2014 9:57,Market at Sansome,77,552,Subscriber
+193095,2/23/2014 9:54,Market at 10th,67,2/23/2014 10:09,Clay at Battery,41,271,Subscriber
+193096,2/23/2014 9:54,Beale at Market,56,2/23/2014 15:21,Market at 10th,67,283,Customer
+193097,2/23/2014 9:55,Beale at Market,56,2/23/2014 15:21,Market at 10th,67,470,Customer
+193098,2/23/2014 10:01,Embarcadero at Sansome,60,2/23/2014 10:09,Embarcadero at Folsom,51,384,Subscriber
+193099,2/23/2014 10:03,Arena Green / SAP Center,14,2/23/2014 10:13,Paseo de San Antonio,7,642,Customer
+193100,2/23/2014 10:07,Embarcadero at Vallejo,48,2/23/2014 10:18,Embarcadero at Sansome,60,347,Customer
+193101,2/23/2014 10:07,Embarcadero at Vallejo,48,2/23/2014 10:18,Embarcadero at Sansome,60,547,Customer
+193102,2/23/2014 10:08,Embarcadero at Sansome,60,2/23/2014 10:28,Embarcadero at Sansome,60,481,Customer
+193103,2/23/2014 10:11,Market at Sansome,77,2/23/2014 15:02,Market at Sansome,77,619,Customer
+193104,2/23/2014 10:18,Market at 4th,76,2/23/2014 14:14,Market at 4th,76,309,Customer
+193105,2/23/2014 10:19,Townsend at 7th,65,2/23/2014 10:33,Spear at Folsom,49,338,Subscriber
+193106,2/23/2014 10:29,Embarcadero at Sansome,60,2/23/2014 10:48,Yerba Buena Center of the Arts (3rd @ Howard),68,481,Customer
+193107,2/23/2014 10:31,Market at 4th,76,2/23/2014 12:49,Market at 4th,76,582,Customer
+193108,2/23/2014 10:31,Santa Clara at Almaden,4,2/23/2014 10:36,Arena Green / SAP Center,14,70,Subscriber
+193109,2/23/2014 10:39,Howard at 2nd,63,2/23/2014 12:25,Commercial at Montgomery,45,267,Customer
+193112,2/23/2014 10:42,San Francisco Caltrain (Townsend at 4th),70,2/23/2014 10:54,Howard at 2nd,63,424,Subscriber
+193113,2/23/2014 10:42,Spear at Folsom,49,2/23/2014 10:49,Harry Bridges Plaza (Ferry Building),50,398,Subscriber
+193114,2/23/2014 10:42,San Pedro Square,6,2/23/2014 10:44,San Pedro Square,6,660,Subscriber
+193115,2/23/2014 10:44,Clayat Battery,41,2/23/2014 10:53,Temporary Transbay Terminal (Howard at Beale),55,312,Customer
+193116,2/23/2014 10:44,Clayat Battery,41,2/23/2014 10:53,Temporary Transbay Terminal (Howard at Beale),55,280,Customer
+193117,2/23/2014 10:44,San Pedro Square,6,2/23/2014 10:52,San Jose Diridon Caltrain Station,2,37,Subscriber
+193118,2/23/2014 10:48,Mountain View Caltrain Station,28,2/23/2014 11:03,Mountain View City Hall,27,84,Customer
+193119,2/23/2014 10:48,Mountain View Caltrain Station,28,2/23/2014 11:02,Mountain View City Hall,27,693,Customer
+193120,2/23/2014 10:49,Powell at Post (Union Square),71,2/23/2014 10:52,Powell at Post (Union Square),71,285,Customer
+193121,2/23/2014 10:49,San Francisco Caltrain (Townsend at 4th),70,2/23/2014 10:56,Embarcadero at Bryant,54,541,Subscriber
+193122,2/23/2014 10:53,Powell at Post (Union Square),71,2/23/2014 11:10,Washington at Kearney,46,444,Customer
+193125,2/23/2014 10:55,Market at 10th,67,2/23/2014 11:03,Market at 4th,76,523,Subscriber
+193126,2/23/2014 10:55,Embarcadero at Sansome,60,2/23/2014 11:14,Powell at Post (Union Square),71,547,Customer
+193127,2/23/2014 10:56,Powell at Post (Union Square),71,2/23/2014 11:10,Washington at Kearney,46,285,Customer
+193128,2/23/2014 10:56,Embarcadero at Sansome,60,2/23/2014 11:14,Powell at Post (Union Square),71,525,Customer
+193129,2/23/2014 10:57,San Francisco Caltrain 2 (330 Townsend),69,2/23/2014 11:01,Townsend at 7th,65,530,Subscriber
+193130,2/23/2014 10:57,Castro Street and El Camino Real,32,2/23/2014 11:58,Castro Street and El Camino Real,32,245,Customer
+193131,2/23/2014 11:11,Steuart at Market,74,2/23/2014 12:00,Market at 4th,76,465,Customer
+193132,2/23/2014 11:14,2nd at Townsend,61,2/23/2014 11:19,Yerba Buena Center of the Arts (3rd @ Howard),68,370,Subscriber
+193133,2/23/2014 11:15,Washington at Kearney,46,2/23/2014 11:26,Embarcadero at Sansome,60,611,Customer
+193134,2/23/2014 11:15,Washington at Kearney,46,2/23/2014 11:26,Embarcadero at Sansome,60,573,Customer
+193135,2/23/2014 11:17,Townsend at 7th,65,2/23/2014 11:31,Embarcadero at Folsom,51,530,Subscriber
+193136,2/23/2014 11:20,Clay at Battery,41,2/23/2014 11:26,Steuart at Market,74,630,Subscriber
+193137,2/23/2014 11:20,Townsend at 7th,65,2/23/2014 11:45,Harry Bridges Plaza (Ferry Building),50,580,Subscriber
+193138,2/23/2014 11:20,Townsend at 7th,65,2/23/2014 11:45,Harry Bridges Plaza (Ferry Building),50,529,Subscriber
+193141,2/23/2014 11:22,Mountain View City Hall,27,2/23/2014 11:26,Mountain View Caltrain Station,28,16,Subscriber
+193142,2/23/2014 11:23,Yerba Buena Center of the Arts (3rd @ Howard),68,2/23/2014 11:36,South Van Ness at Market,66,600,Customer
+193145,2/23/2014 11:23,Yerba Buena Center of the Arts (3rd @ Howard),68,2/23/2014 11:36,South Van Ness at Market,66,481,Customer
+193148,2/23/2014 11:33,Santa Clara at Almaden,4,2/23/2014 11:36,San Pedro Square,6,159,Subscriber
+193149,2/23/2014 11:34,Temporary Transbay Terminal (Howard at Beale),55,2/23/2014 11:38,Yerba Buena Center of the Arts (3rd @ Howard),68,468,Subscriber
+193150,2/23/2014 11:36,San Pedro Square,6,2/23/2014 11:39,St James Park,13,159,Subscriber
+193151,2/23/2014 11:36,Yerba Buena Center of the Arts (3rd @ Howard),68,2/23/2014 15:14,Harry Bridges Plaza (Ferry Building),50,318,Customer
+193152,2/23/2014 11:37,South Van Ness at Market,66,2/23/2014 12:03,South Van Ness at Market,66,600,Customer
+193153,2/23/2014 11:38,South Van Ness at Market,66,2/23/2014 12:03,South Van Ness at Market,66,481,Customer
+193155,2/23/2014 11:38,Yerba Buena Center of the Arts (3rd @ Howard),68,2/23/2014 15:14,Harry Bridges Plaza (Ferry Building),50,374,Customer
+193156,2/23/2014 11:40,San Francisco Caltrain (Townsend at 4th),70,2/23/2014 11:54,Embarcadero at Sansome,60,631,Subscriber
+193157,2/23/2014 11:40,Commercial at Montgomery,45,2/23/2014 11:47,5th at Howard,57,445,Subscriber
+193158,2/23/2014 11:40,Embarcadero at Sansome,60,2/23/2014 11:46,Harry Bridges Plaza (Ferry Building),50,584,Subscriber
+193161,2/23/2014 11:47,Embarcadero at Folsom,51,2/23/2014 12:47,Embarcadero at Sansome,60,554,Customer

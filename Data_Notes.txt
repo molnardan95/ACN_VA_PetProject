@@ -1,6 +1,39 @@
 NOTES ABOUT THE DATASET
 
-Potential Improvement: 
-	- Download data from basketball_reference.com instead (etc: BeautifulSoup from Python link: https://towardsdatascience.com/web-scraping-nba-stats-4b4f8c525994)
+
+Inferences:
+	- It seems like the player_data is mostly redundant
+	- The whole dataset is from 1950. However the 3 point line was implemented from 1980 only. - Filter down to only after that season. We have all stats after that point.
 	
+	
+Potential Improvement: 
+	- Download data from https://basketball-reference.com instead (etc: BeautifulSoup from Python link: https://towardsdatascience.com/web-scraping-nba-stats-4b4f8c525994)
+	
+	
+	
+https://www.kaggle.com/piyush1912/nba-top-players-deep-learning
+	Interesting Analysis of the data. Has some errors when aggregating to player level however. Analysis is taking averages of yearly averages, which is incorrect for obviuos reasons.
+	Similar player analysis can be created very easily. That will be OUR FIRST GOAL.
+	
+	
+	
+GOALS
+	- Find best players using the following dimensions: 
+		- points, rebounds, assists, blocks, steals (major stats) and field goals, 2-and 3-pointers, career lenght
+		- most of these can be broken down into decades/eras and by position, age group
+		- 
+	- Yearly distribution of these statistics
+	
+		
+	- Really outstanding players in a year/in a position/both
+	
+	
+	- Create Data for 3 aggregation levels (PLAYER, SEASON, TEAM)
+	
+	
+	
+CURRENT PROBLEMS
+	- PLAYER IDENTIFICATION (There are players with the same name, sometimes even in the same season and team)
+	- DATA SORUCING (Our files are static, could use some scraping, this could potentially fix the above as well)
+	- SET UP PROJECT COMMUNICATION (TRELLO?)
 	
